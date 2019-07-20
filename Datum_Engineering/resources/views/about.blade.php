@@ -55,20 +55,19 @@
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label for="drop-2" class="toggle toggle-2">Pages <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="#">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <a href="{{route('services')}}">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
-                                <ul>
-
-                                    <li><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="timeline.html" class="drop-text">Construction Division</a></li>
-                                    <li><a href="team.html" class="drop-text">Developing Division</a></li>
-                                    <li><a href="typo.html" class="drop-text">Survey/GIS Division</a></li>
-                                    <li><a href="error.html" class="drop-text">Soil testing & Investigation</a></li>
-                                    <li><a href="error.html" class="drop-text">MEP</a></li>
+                                 <ul>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
+                                    <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
                             </li>
                             <li><a href="{{route('home')}}">Projects</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -133,49 +132,7 @@
 
                 </div>
             </div>
-            <div class="row features-w3pvt-main" id="features">
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-globe" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Global Network</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-laptop" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Digital Agency</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-handshake-o" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Trusted Partner</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+           
     </section>
     <!--//ab-->
 
@@ -304,30 +261,30 @@
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <h4 class="mb-4">Quick Links</h4>
+                 <!--   <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                        <ul class="list-info-wthree">
+                       <!-- <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Privacy Ploicy</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Ready to Build</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
-                        </ul>
+                        </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
-                                <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('home')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('about')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a href="single.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                                    Single Page
+                                <a href="{{route('single')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                    Details
                                 </a>
                             </li>
                             <li>
@@ -336,7 +293,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('contact')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Contact Us
                                 </a>
                             </li>

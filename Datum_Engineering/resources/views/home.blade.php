@@ -1,9 +1,3 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
 
 <!DOCTYPE html>
 <html lang="zxx">
@@ -58,20 +52,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <li>
                             <!-- First Tier Drop Down -->
                             <label for="drop-2" class="toggle toggle-2">Business<span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                            <a href="#">Business<span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                            <a href="{{route('services')}}">Business<span class="fa fa-angle-down" aria-hidden="true"></span></a>
                             <input type="checkbox" id="drop-2" />
-                            <ul>
-
-                                <li><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                <li><a href="{{route('timeline')}}" class="drop-text">Construction Division</a></li>
-                                <li><a href="team.html" class="drop-text">Developing Division</a></li>
-                                <li><a href="typo.html" class="drop-text">Survey/GIS Division</a></li>
-                                <li><a href="error.html" class="drop-text">Soil testing & Investigation</a></li>
-                                <li><a href="error.html" class="drop-text">MEP</a></li>
-                            </ul>
+                                <ul>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
+                                    <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
+                                </ul>
                         </li>
                         <li><a href="#gallery">Projects</a></li>
-                        <li><a href="contact.html">Contact</a></li>
+                        <li><a href="{{route('contact')}}">Contact</a></li>
 
                         <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                 <div class="tooltip">Facebook</div>
@@ -146,15 +139,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="container p-md-5">
             <div class="about-hny-info text-left px-md-5">
                 <h3 class="tittle-w3ls mb-3"><span class="pink">We</span> Design & Build</h3>
-                <p class="sub-tittle mt-3 mb-4">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula. Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Sed do eiusmod tempor incididunt ut labore et dolore
-                    magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                <p class="sub-tittle mt-3 mb-4">Datum Engineering Limited (DEL) is a fast growing multidisciplinary engineering (consultancy & Construction) organization engaged in the areas of civil and structural engineering, geotechnical engineering, urban planning and design, construction and project management services. Datum Engineering has started its journey since 2017 and finally registered as a limited company on July 2019 with the vision “safety & thrifty in the world of infrastructure". DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.
+                   </p>
                 <a class="btn more black" href="{{route('single')}}" role="button">Read More</a>
             </div>
         </div>
     </section>
     <!-- //about -->
     <!--/ab-->
+    <!--
     <section class="banner_bottom py-5">
         <div class="container py-md-5">
             <div class="row inner_sec_info">
@@ -173,61 +166,22 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                 </div>
             </div>
-            <div class="row features-w3pvt-main" id="features">
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-globe" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Global Network</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-laptop" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Digital Agency</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-handshake-o" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Trusted Partner</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+           
+           
     </section>
     <!--//ab-->
 
     <!--/services-->
+
+   
     <section class="services" id="services">
         <div class="over-lay-blue py-5">
             <div class="container py-md-5">
                 <div class="row my-4">
                     <div class="col-lg-5 services-innfo pr-5">
                         <h3 class="tittle-w3ls two mb-3 text-left"><span class="pink">What</span> We Provide</h3>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                        <a href="{{route('services')}}"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
+                        <p class="sub-tittle mt-2 mb-sm-3 text-left">DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
+                        <a href="{{route('services')}}"><img src="images/cons.jpg" alt="construction_image" class="img-fluid"></a>
                     </div>
                     <div class="col-lg-7 services-grid-inf">
                         <div class="row services-w3pvt-main mt-5">
@@ -235,12 +189,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="row features-hny-inner-gd mt-3">
                                     <div class="col-md-2 featured_grid_left">
                                         <div class="icon_left_grid">
-                                            <span class="fa fa-paint-brush" aria-hidden="true"></span>
+                                            <span class="fa fa-lightbulb-o" aria-hidden="true"></span>
                                         </div>
                                     </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">UI/UX Designs</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                                   <div class="col-md-10 featured_grid_right_info">
+                                        <h4><a class="link-hny" href="{{route('single')}}">Creative Strategy</a></h4>
+                                        <p>Reconnaissance survey, project preparatory technical assistance, field surveys/investigations, digital survey.</p>
 
                                     </div>
 
@@ -250,12 +204,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="row features-hny-inner-gd mt-3">
                                     <div class="col-md-2 featured_grid_left">
                                         <div class="icon_left_grid">
-                                            <span class="fa fa-bullhorn" aria-hidden="true"></span>
+                                            <span class="fa fa-tree" aria-hidden="true"></span>
                                         </div>
                                     </div>
                                     <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">SEO Marketing</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                                        <h4><a class="link-hny" href="single.html">Environmental & Social Assessment</a></h4>
+                                        <p>we assessed environmental and social impact</p>
 
                                     </div>
 
@@ -268,12 +222,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="row features-hny-inner-gd mt-3">
                                     <div class="col-md-2 featured_grid_left">
                                         <div class="icon_left_grid">
-                                            <span class="fa fa-shield" aria-hidden="true"></span>
+                                            <span class="fa fa-building-o" aria-hidden="true"></span>
                                         </div>
                                     </div>
                                     <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">User Experience</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                                        <h4><a class="link-hny" href="{{route('single')}}">Construction supervision,project management & monitoring</a></h4>
+                                        <p>Creating high user experienced.</p>
 
                                     </div>
 
@@ -283,17 +237,98 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <div class="row features-hny-inner-gd mt-3">
                                     <div class="col-md-2 featured_grid_left">
                                         <div class="icon_left_grid">
-                                            <span class="fa fa-lightbulb-o" aria-hidden="true"></span>
+                                            <span class="fa fa-wrench" aria-hidden="true"></span>
                                         </div>
                                     </div>
                                     <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">Creative Strategy</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                                        <h4><a class="link-hny" href="single.html">Soil Testing</a></h4>
+                                        <p>We do soil test.</p>
 
                                     </div>
 
                                 </div>
                             </div>
+                            <div class="row services-w3pvt-main mt-5">
+                            <div class="col-lg-6 feature-gird">
+                                <div class="row features-hny-inner-gd mt-3">
+                                    <div class="col-md-2 featured_grid_left">
+                                        <div class="icon_left_grid">
+                                            <span class="fa fa-plug" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                   <div class="col-md-10 featured_grid_right_info">
+                                        <h4><a class="link-hny" href="{{route('single')}}">Electrical Design</a></h4>
+                                        <p>Design Electrical system</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-lg-6 feature-gird">
+                                <div class="row features-hny-inner-gd mt-3">
+                                    <div class="col-md-2 featured_grid_left">
+                                        <div class="icon_left_grid">
+                                            <span class="fa fa-ils" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10 featured_grid_right_info">
+                                        <h4><a class="link-hny" href="single.html">Plumbing Design</a></h4>
+                                        <p></p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="row services-w3pvt-main mt-5">
+                            <div class="col-lg-6 feature-gird">
+                                <div class="row features-hny-inner-gd mt-3">
+                                    <div class="col-md-2 featured_grid_left">
+                                        <div class="icon_left_grid">
+                                            <span class="fa fa-building-o" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                   <div class="col-md-10 featured_grid_right_info">
+                                        <h4><a class="link-hny" href="{{route('single')}}">Structural design of RCC Building</a></h4>
+                                        <p>We provide the structural design of RCC building.</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <div class="col-lg-6 feature-gird">
+                                <div class="row features-hny-inner-gd mt-3">
+                                    <div class="col-md-2 featured_grid_left">
+                                        <div class="icon_left_grid">
+                                            <span class="fa fa-shield" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-10 featured_grid_right_info">
+                                        <h4><a class="link-hny" href="{{route('single')}}">Structural Design of steel structure</a></h4>
+                                        <p>Steel structure design is provided.</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+
+                            <div class="row services-w3pvt-main mt-5">
+                            <div class="col-lg-6 feature-gird">
+                                <div class="row features-hny-inner-gd mt-3">
+                                    <div class="col-md-2 featured_grid_left">
+                                        <div class="icon_left_grid">
+                                            <span class="fa fa-pencil-square-o" aria-hidden="true"></span>
+                                        </div>
+                                    </div>
+                                   <div class="col-md-10 featured_grid_right_info">
+                                        <h4><a class="link-hny" href="{{route('single')}}">Architectural Solution</a></h4>
+                                        <p>Provide architectural solution of different buildings.</p>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                           
+
 
 
                         </div>
@@ -302,6 +337,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             </div>
         </div>
     </section>
+
     <!--//services-->
     <!-- /projects -->
     <section class="projects py-5" id="gallery">
@@ -309,7 +345,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <h3 class="tittle-w3ls text-left mb-5"><span class="pink">Our</span> Projects</h3>
             <div class="row news-grids mt-md-5 mt-4 text-center">
                 <div class="col-md-4 gal-img">
-                    <a href="#gal1"><img src="images/g10.jpg" alt="w3pvt" height="300" width="300" class="img-fluid"></a>
+                    <a href="#gal1"><img src="images/g10.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -524,7 +560,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Datum Engineering Ltd.
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -549,39 +585,39 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <h4 class="mb-4">Quick Links</h4>
+                  <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                        <ul class="list-info-wthree">
+                     <!--   <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Privacy Ploicy</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Ready to Build</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
-                        </ul>
+                        </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
-                                <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('home')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('about')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a href="single.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                                    Single Page
+                                <a href="{{route('single')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                    Details
                                 </a>
                             </li>
                             <li>
-                                <a href="team.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('team')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Team
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('contact')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Contact Us
                                 </a>
                             </li>

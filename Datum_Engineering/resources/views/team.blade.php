@@ -310,16 +310,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <h4 class="mb-4">Quick Links</h4>
+               <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                        <ul class="list-info-wthree">
+                      <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Privacy Ploicy</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Ready to Build</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
-                        </ul>
+                        </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
                                 <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>

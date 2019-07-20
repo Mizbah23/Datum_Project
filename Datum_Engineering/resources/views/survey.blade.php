@@ -4,7 +4,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Datum Engineering Ltd.| Design Division</title>
+    <title>Datum Engineering Ltd.| Developing Division</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -68,7 +68,7 @@
                                 </ul>
                             </li>
                             <li><a href="{{route('home')}}">Projects</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -91,7 +91,7 @@
                         <li class="breadcrumb-item">
                             <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">Design Division</li>
+                        <li class="breadcrumb-item active">Developing Division</li>
                     </ol>
 
                 </div>
@@ -100,22 +100,6 @@
             <!-- //top-nav -->
         </div>
     </div>
-        <section class="banner_bottom py-5">
-        <div class="container py-md-5">
-            <div class="row inner_sec_info">
-
-                <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/arc.jpg" alt=" " class="img-fluid">
-                </div>
-                <div class="col-md-6 banner_bottom_left">
-                    <h4><a class="link-hny" href="{{route('services')}}">
-                            Great Modern Design and Unique Features</a></h4>
-                    <p>We have an experienced team to visualize your dream in graphics with creative design and innovative thinking. Our design studio covers Architecture, Interiors, Graphics, and Landscaping. We are energetic and passionate about our work and committed to create a sustainable and beautiful spaces for clients far exceeding their expectations.</p>
-                  
-                    <a class="btn more black mt-3" href="{{route('services')}}" role="button">Services Info</a>
-
-                </div>
-            </div>
     <!-- about -->
     <section class="about py-5">
         <div class="container py-md-5">
@@ -124,14 +108,73 @@
                 <p class="sub-tittle mt-3 mb-4 pr-md-5">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula. Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Sed do eiusmod tempor incididunt ut labore et dolore
                     magna
                     aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                <a class="btn more black" href="{{route('single')}}" role="button">Read More</a>
+                <a class="btn more black" href="single.html" role="button">Read More</a>
             </div>
         </div>
     </section>
     <!-- //about -->
     <!--/ab-->
+    <section class="banner_bottom py-5">
+        <div class="container py-md-5">
+            <div class="row inner_sec_info">
 
-    
+                <div class="col-md-6 banner_bottom_grid help">
+                    <img src="images/arc.jpg" alt=" " class="img-fluid">
+                </div>
+                <div class="col-md-6 banner_bottom_left">
+                    <h4><a class="link-hny" href="services.html">
+                            Great Modern Design and Unique Features</a></h4>
+                    <p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
+                        pulvinar neque pharetra ac.</p>
+                    <p>Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
+                        pulvinar neque pharetra ac.</p>
+                    <a class="btn more black mt-3" href="services.html" role="button">Services Info</a>
+
+                </div>
+            </div>
+            <div class="row features-w3pvt-main" id="features">
+                <div class="col-md-4 feature-gird">
+                    <div class="row features-hny-inner-gd">
+                        <div class="col-md-3 featured_grid_left">
+                            <div class="icon_left_grid">
+                                <span class="fa fa-globe" aria-hidden="true"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
+                            <h4><a class="link-hny" href="single.html">Global Network</a></h4>
+                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 feature-gird">
+                    <div class="row features-hny-inner-gd">
+                        <div class="col-md-3 featured_grid_left">
+                            <div class="icon_left_grid">
+                                <span class="fa fa-laptop" aria-hidden="true"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
+                            <h4><a class="link-hny" href="single.html">Digital Agency</a></h4>
+                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 feature-gird">
+                    <div class="row features-hny-inner-gd">
+                        <div class="col-md-3 featured_grid_left">
+                            <div class="icon_left_grid">
+                                <span class="fa fa-handshake-o" aria-hidden="true"></span>
+                            </div>
+                        </div>
+                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
+                            <h4><a class="link-hny" href="single.html">Trusted Partner</a></h4>
+                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
     </section>
     <!--//ab-->
 
@@ -144,12 +187,6 @@
                         <h3 class="tittle-w3ls two mb-3 text-left"><span class="pink">What</span> We Provide</h3>
                         <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
                         <a href="services.html"><img src="images/cons.jpg"" alt="w3pvt" class="img-fluid"></a>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                    </div>
-                       <a href="services.html"><img src="images/cons.jpg"" alt="w3pvt" class="img-fluid"></a>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                    <div>
-                        
                     </div>
                     <div class="col-lg-7 services-grid-inf">
                         <div class="row services-w3pvt-main mt-5">
@@ -266,7 +303,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 mt-4">
-                  <!--  <h4 class="mb-4">Quick Links</h4>-->
+               <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
                       <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>

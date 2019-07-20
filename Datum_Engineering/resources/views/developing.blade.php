@@ -1,15 +1,10 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
-    <title>Datum Engineering Ltd.| More Info </title>
+    <title>Datum Engineering Ltd.| Developing Division</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -47,10 +42,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                           <a class="navbar-brand" href=""><img width="150" height= "250" src="/images/datum.jpeg" ></a>
+                             <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg" ></a>
                                 </a>
                             </h1>
                         </div>
+
 
                         <label for="drop" class="toggle">Menu</label>
                         <input type="checkbox" id="drop" />
@@ -60,7 +56,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="{{route('services')}}">Business<span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <a href="#">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
                                     <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
@@ -71,8 +67,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index.html">Projects</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('home')}}">Projects</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -95,7 +91,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <li class="breadcrumb-item">
                             <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">Single Page</li>
+                        <li class="breadcrumb-item active">Developing Division</li>
                     </ol>
 
                 </div>
@@ -104,161 +100,82 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <!-- //top-nav -->
         </div>
     </div>
-    <!-- //home -->
+   
+    <!--/ab-->
+    <section class="banner_bottom py-5">
+        <div class="container py-md-5">
+            <div class="row inner_sec_info">
 
-    <!-- Contact -->
-    <section class="about-info p-lg-5 p-3">
-        <div class="content-w3ls-inn px-lg-5">
-            <div class="container py-md-5 py-3">
-                <div class="content-sing-w3pvt px-lg-5">
-                    <img class="img-fluid mb-2" src="images/101.jpg" alt="">
-                    <h4 class="title-hny my-2">We design and build</h4>
-                    <p>Datum Engineering Limited (DEL) is a fast growing multidisciplinary engineering (consultancy & Construction) organization engaged in the areas of civil and structural engineering, geotechnical engineering, urban planning and design, construction and project management services. Datum Engineering has started its journey since 2017 and finally registered as a limited company on July 2019 with the vision “safety & thrifty in the world of infrastructure". DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
-                    <p class="mt-2">DEL is adequately equipped with required logistics of transports, latest survey & investigation equipment, testing equipment, laboratory, server & personal computers, licensed software etc. 
-                    DEL has been actively participating in a large number of projects both in home and abroad. DEL has successfully completed a large number of projects in different development sectors. The projects are financed by various organizations.
-                    </p>
-
-
-                    <div class="row about-w3pvt-top mt-2">
-
-                        <div class="col-lg-6 about-info">
-                            <h4 class="title-hny mb-3">What Datum Provide</h4>
-                            <p>DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion</p>
-
-
-                        </div>
-                        <div class="col-lg-6 about-img">
-                            <div class="row">
-                                <div class="col">
-                                    <img src="images/g10.jpg" class="img-fluid" alt="user-image">
-                                </div>
-                                <div class="col">
-                                    <img src="images/rsz_4.jpg" class="img-fluid" alt="user-image">
-                                </div>
-                            </div>
-                        </div>
-
-
-                    </div>
-                    <div class="social-icons-footer">
-                        <ul class="list-unstyled w3pvt-icons mb-5">
-                            <li class="lead">
-                                Catch On Social :
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-facebook-f"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-twitter"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-dribbble"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-google-plus"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-pinterest-p"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-vk"></span>
-                                </a>
-                            </li>
-                        </ul>
-                    </div>
+                <div class="col-md-6 banner_bottom_grid help">
+                    <img src="images/arc.jpg" alt=" " class="img-fluid">
                 </div>
-                <!--
-                <div class="comments my-5 px-lg-5">
-                    <h4 class="title-hny mb-5">Recent Comments</h4>
-                    <div class="comments-grids mt-4">
-                        <div class="media mt-4">
-                            <img class="mr-3" src="images/t1.jpg" alt="image">
-                            <div class="media-body comments-grid-right">
-                                <h4>Johnson</h4>
-                                <ul class="my-2">
-                                    <li class="font-weight-bold">2 Apr 2019
-                                        <i>|</i>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="font-weight-bold">Reply</a>
-                                    </li>
-                                </ul>
-                                <p>mattis ut hendrerit non, facilisis eget mauris. Sed ultricies nec purus quis
-                                    tempor.
-                                    Phasellus bibendum eu.</p>
-                            </div>
-                        </div>
-                        <div class="media mt-sm-5 mt-3 ml-5">
-                            <a class="pr-3" href="#">
-                                <img src="images/t2.jpg" class="img-fluid media-img" alt="image">
-                            </a>
-                            <div class="media-body comments-grid-right">
-                                <h4>Watson</h4>
-                                <ul class="my-2">
-                                    <li class="font-weight-bold">2 Apr 2019
-                                        <i>|</i>
-                                    </li>
-                                    <li>
-                                        <a href="#" class="font-weight-bold">Reply</a>
-                                    </li>
-                                </ul>
-                                <p>mattis ut hendrerit non, facilisis eget mauris. Sed ultricies nec
-                                    purus
-                                    quis
-                                    tempor. Phasellus bibendum eu.</p>
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-md-6 banner_bottom_left">
+                    <h4><a class="link-hny" href="services.html">
+                           Develope the way you want </a></h4>
+                    <p>Datum is working to ensure safe dwelling for people within purchase capacity around Dhaka city. Client’s satisfactions with all relevant services are advertisement and goal. Your dream home’s key in our hand. We are offering a beautiful dwelling place at important location like Basundhara R/A.</p>
+                    
+                    <a class="btn more black mt-3" href="{{route('single')}}" role="button">Services Info</a>
+
                 </div>
-
-                <div class="contact-right-hny-info login px-lg-5">
-
-                    <h4 class="title-hny mb-5">Leave a Comment</h4>
-                    <form action="#" class="contact-hny-form" method="post">
-                        <div class="row">
-                            <div class="col-lg-6">
-                                <div class="form-group">
-                                    <label>First Name</label>
-                                    <input class="form-control" type="text" name="Name" placeholder="" required="">
-                                </div>
-                                <div class="form-group">
-                                    <label>Last Name</label>
-                                    <input class="form-control" type="text" name="Name" placeholder="" required="">
-                                </div>
-                                <div class="form-group">
-                                    <label>Email</label>
-                                    <input class="form-control" type="email" name="Email" placeholder="" required="">
-                                </div>
-                            </div>
-                           
-
-                    </form>
-                  -->
-                </div>
+            </div>
+           
+                        
 
             </div>
         </div>
     </section>
-    <!-- //single -->
+    <!--//ab-->
+     <section class="projects py-5" id="gallery">
+        <div class="container py-md-5">
+            <!--<h3 class="tittle-w3ls text-left mb-5"><span class="pink">Our</span> Projects</h3>-->
+            <div class="row news-grids mt-md-5 mt-4 text-center">
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
+                    <div class="gal-info">
+                       
+                    </div>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <div class="gal-info">
+                      
+                    </div>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/build7.jpg" alt="construction building photo" class="img-fluid"></a>
+                    <div class="gal-info">
+                     
+                    </div>
+                </div>
+
+    <!--/services-->
+   
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--//services-->
+
+    <!--/mid-->
+
+    <!--//mid-->
+
+
+    <!-- /news-letter -->
+   
+    <!-- //news-letter -->
 
     <!-- footer -->
     <footer class="py-lg-5 py-4">
         <div class="container py-sm-3">
             <div class="row footer-grids">
-                <div class="col-lg-4 mt-4">
+                <div class="col-lg-4 col-sm-6 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Infinitude
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -282,8 +199,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
                     </div>
                 </div>
-                <div class="col-lg-4 mt-4">
-              <!--  <h4 class="mb-4">Quick Links</h4>-->
+                <div class="col-lg-4 col-sm-6 mt-4">
+                  <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
                       <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
@@ -305,7 +222,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </a>
                             </li>
                             <li>
-                                <a href="{{route('single')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="single.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Single Page
                                 </a>
                             </li>
@@ -322,7 +239,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 mt-4 ad-info">
+                <div class="col-lg-4 col-sm-6 mt-4 ad-info">
                     <h4 class="mb-4">Contact Info</h4>
                     <p><span class="fa fa-map-marker"></span>90 nsequursu dsdesdc,
                         xxx Honey Street 049436.<span>Newyork, NY.</span></p>
@@ -339,10 +256,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="copy_right p-3 d-flex">
         <div class="container">
             <div class="row d-flex">
-                <div class="col-lg-9 copy_w3pvt">
-             <div class="col-lg-9 copy_w3pvt">
-                    <p class="text-lg-left text-center">© 2019 Infinitude. All rights reserved | Design by
-                        <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
+               <div class="col-lg-9 copy_w3pvt">
+                    <p class="text-lg-left text-center">© 2019 Datum Engineering Ltd. All rights reserved | Design by
+                        <a href="http://deshisysltd.com/" target="_blank">Deshi Systems Ltd.</a></p>
 
                 </div>
                 <!-- move top -->

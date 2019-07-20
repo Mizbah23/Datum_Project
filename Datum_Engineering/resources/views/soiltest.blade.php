@@ -1,15 +1,10 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
-    <title>Infinitude Corporate Category Bootstrap Responsive Web Template | Error Page :: W3layouts</title>
+    <title>Datum Engineering Ltd. | Construction</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -47,7 +42,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                            <h1> <a class="navbar-brand px-0 mx-0" href="index.html">Infinitude
+                               <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg" ></a>
                                 </a>
                             </h1>
                         </div>
@@ -55,25 +50,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <label for="drop" class="toggle">Menu</label>
                         <input type="checkbox" id="drop" />
                         <ul class="menu mr-auto">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About</a></li>
+                            <li><a href="{{route('home')}}">Home</a></li>
+                            <li><a href="{{route('about')}}">About</a></li>
                             <li>
                                 <!-- First Tier Drop Down -->
-                                <label for="drop-2" class="toggle toggle-2">Pages <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="#">Pages  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
+                                <a href="{{route('services')}}">Business  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-
-                                    <li><a href="services.html" class="drop-text">Services</a></li>
-                                    <li><a href="timeline.html" class="drop-text">Timeline</a></li>
-                                    <li><a href="team.html" class="drop-text">Team</a></li>
-                                    <li><a href="typo.html" class="drop-text">Typography</a></li>
-                                    <li><a href="error.html" class="drop-text">Faq's</a></li>
-                                    <li><a href="error.html" class="drop-text">Social Media</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
+                                    <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index.html">Projects</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('home')}}">Projects</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -94,9 +88,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="inner-w3pvt-page-info">
                     <ol class="breadcrumb d-flex">
                         <li class="breadcrumb-item">
-                            <a href="index.html">Home</a>
+                            <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">Error</li>
+                        <li class="breadcrumb-item active">Construction</li>
                     </ol>
 
                 </div>
@@ -106,22 +100,85 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
     </div>
     <!-- //home -->
-
-    <!--/error -->
+    <!--/timeline -->
     <section class="about py-5">
-        <div class="container p-md-5">
-            <div class="about-hny-info text-left px-md-5">
-                <div class="error-w3pvt px-md-5 text-center">
-                    <h3>404</h3>
-                    <h4>The Page</h4>
-                    <h5>Was Not Found</h5>
-                    <a href="index.html" class="btn more black error mt-4">Back to Home</a>
+        <div class="py-md-5">
+            <div class="about-hny-info" id="timeline">
+                <h3 class="tittle-w3ls mb-5 text-center">Timeline </h3>
+
+
+                <div class="demo-card-wrapper">
+                    <div class="demo-card demo-card--step1">
+                        <div class="head">
+                            <div class="number-box">
+                                <span>01</span>
+                            </div>
+                            <h3><span class="small">2015</span> Technology</h3>
+                        </div>
+                        <div class="body">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                            <img src="images/home.jpg" alt="infinitude" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <div class="demo-card demo-card--step2">
+                        <div class="head">
+                            <div class="number-box">
+                                <span>02</span>
+                            </div>
+                            <h3><span class="small">2016</span> Confidence</h3>
+                        </div>
+                        <div class="body">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                            <img src="images/banner2.jpg" alt="infinitude" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <div class="demo-card demo-card--step3">
+                        <div class="head">
+                            <div class="number-box">
+                                <span>03</span>
+                            </div>
+                            <h3><span class="small">2017</span> Adaptation</h3>
+                        </div>
+                        <div class="body">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                            <img src="images/banner3.jpg" alt="infinitude" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <div class="demo-card demo-card--step4">
+                        <div class="head">
+                            <div class="number-box">
+                                <span>04</span>
+                            </div>
+                            <h3><span class="small">2018</span> Consistency</h3>
+                        </div>
+                        <div class="body">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                            <img src="images/banner4.jpg" alt="infinitude" class="img-fluid">
+                        </div>
+                    </div>
+
+                    <div class="demo-card demo-card--step5">
+                        <div class="head">
+                            <div class="number-box">
+                                <span>05</span>
+                            </div>
+                            <h3><span class="small">2019</span> Conversion</h3>
+                        </div>
+                        <div class="body">
+                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
+                            <img src="images/banner1.jpg" alt="infinitude" class="img-fluid">
+                        </div>
+                    </div>
+
                 </div>
 
             </div>
         </div>
     </section>
-    <!--//error-->
+    <!--//timeline-->
 
     <!-- footer -->
     <footer class="py-lg-5 py-4">
@@ -129,7 +186,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Infinitude
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -154,16 +211,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <h4 class="mb-4">Quick Links</h4>
+               <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                        <ul class="list-info-wthree">
+                      <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Privacy Ploicy</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Ready to Build</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
-                        </ul>
+                        </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
                                 <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
@@ -210,9 +267,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <div class="copy_right p-3 d-flex">
         <div class="container">
             <div class="row d-flex">
-                <div class="col-lg-9 copy_w3pvt">
-                    <p class="text-lg-left text-center">© 2019 Infinitude. All rights reserved | Design by
-                        <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
+               <div class="col-lg-9 copy_w3pvt">
+                    <p class="text-lg-left text-center">© 2019 Datum Engneering Ltd. All rights reserved | Design by
+                        <a href="http://http://deshisysltd.com/" target="_blank">Deshi Systems Ltd.</a></p>
 
                 </div>
                 <!-- move top -->
@@ -227,7 +284,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     </div>
     <!-- //copyright -->
-
 </body>
 
 </html>

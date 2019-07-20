@@ -1,9 +1,4 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
+
 
 <!DOCTYPE html>
 <html lang="zxx">
@@ -47,7 +42,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                               <a class="navbar-brand" href=""><img width="150" height= "250" src="/images/datum.jpeg" ></a>
+                               <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg" ></a>
                                 </a>
                             </h1>
                         </div>
@@ -60,20 +55,19 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="#">Business  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <a href="{{route('services')}}">Business  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-
-                                    <li><a href="{{route('services')}}" class="drop-text">Services</a></li>
-                                    <li class="active"><a href="{{route('timeline')}}" class="drop-text">Timeline</a></li>
-                                    <li><a href="team.html" class="drop-text">Team</a></li>
-                                    <li><a href="typo.html" class="drop-text">Typography</a></li>
-                                    <li><a href="error.html" class="drop-text">Faq's</a></li>
-                                    <li><a href="error.html" class="drop-text">Social Media</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
+                                    <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
                             </li>
                             <li><a href="{{route('home')}}">Projects</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -106,84 +100,47 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
     </div>
     <!-- //home -->
-    <!--/timeline -->
-    <section class="about py-5">
-        <div class="py-md-5">
-            <div class="about-hny-info" id="timeline">
-                <h3 class="tittle-w3ls mb-5 text-center">Timeline </h3>
+ <section class="banner_bottom py-5">
+        <div class="container py-md-5">
+            <div class="row inner_sec_info">
 
-
-                <div class="demo-card-wrapper">
-                    <div class="demo-card demo-card--step1">
-                        <div class="head">
-                            <div class="number-box">
-                                <span>01</span>
-                            </div>
-                            <h3><span class="small">2015</span> Technology</h3>
-                        </div>
-                        <div class="body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                            <img src="images/home.jpg" alt="infinitude" class="img-fluid">
-                        </div>
-                    </div>
-
-                    <div class="demo-card demo-card--step2">
-                        <div class="head">
-                            <div class="number-box">
-                                <span>02</span>
-                            </div>
-                            <h3><span class="small">2016</span> Confidence</h3>
-                        </div>
-                        <div class="body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                            <img src="images/banner2.jpg" alt="infinitude" class="img-fluid">
-                        </div>
-                    </div>
-
-                    <div class="demo-card demo-card--step3">
-                        <div class="head">
-                            <div class="number-box">
-                                <span>03</span>
-                            </div>
-                            <h3><span class="small">2017</span> Adaptation</h3>
-                        </div>
-                        <div class="body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                            <img src="images/banner3.jpg" alt="infinitude" class="img-fluid">
-                        </div>
-                    </div>
-
-                    <div class="demo-card demo-card--step4">
-                        <div class="head">
-                            <div class="number-box">
-                                <span>04</span>
-                            </div>
-                            <h3><span class="small">2018</span> Consistency</h3>
-                        </div>
-                        <div class="body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                            <img src="images/banner4.jpg" alt="infinitude" class="img-fluid">
-                        </div>
-                    </div>
-
-                    <div class="demo-card demo-card--step5">
-                        <div class="head">
-                            <div class="number-box">
-                                <span>05</span>
-                            </div>
-                            <h3><span class="small">2019</span> Conversion</h3>
-                        </div>
-                        <div class="body">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Soluta reiciendis deserunt doloribus consequatur, laudantium odio dolorum laboriosam.</p>
-                            <img src="images/banner1.jpg" alt="infinitude" class="img-fluid">
-                        </div>
-                    </div>
+                <div class="col-md-6 banner_bottom_grid help">
+                    <img src="images/2.jpg" alt=" " class="img-fluid">
+                </div>
+                <div class="col-md-6 banner_bottom_left">
+                    <h4><a class="link-hny" href="{{route('single')}}">
+                             Modern construction underway</a></h4>
+                    <p>Our Engineers aim is to ensure safety of your structure according to Bangladesh national building code(BNBC) and other international code where requires whose. We take all critical rules and code to economize your building. We have experienced structural engineering team for design skeleton of your structure. We are designing Industrial building( Spinning shed, Dying shed and building for RMG sectors), Shopping complex, Residential Building.</p>
+                  
+                    <a class="btn more black mt-3" href="{{route('services')}}" role="button">Services Info</a>
 
                 </div>
-
             </div>
-        </div>
-    </section>
+    <!--/timeline -->
+      <section class="projects py-5" id="gallery">
+        <div class="container py-md-5">
+            <!--<h3 class="tittle-w3ls text-left mb-5"><span class="pink">Our</span> Projects</h3>-->
+            <div class="row news-grids mt-md-5 mt-4 text-center">
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
+                    <div class="gal-info">
+                       
+                    </div>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <div class="gal-info">
+                      
+                    </div>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/build7.jpg" alt="construction building photo" class="img-fluid"></a>
+                    <div class="gal-info">
+                     
+                    </div>
+                </div>
+                
+   
     <!--//timeline-->
 
     <!-- footer -->
@@ -192,7 +149,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Infinitude
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -217,30 +174,30 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <h4 class="mb-4">Quick Links</h4>
+                  <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                        <ul class="list-info-wthree">
+                      <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Privacy Ploicy</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Ready to Build</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
-                        </ul>
+                        </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
-                                <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('home')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('about')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     About Us
                                 </a>
                             </li>
                             <li>
-                                <a href="single.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                                    Single Page
+                                <a href="{{route('single')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                    Details
                                 </a>
                             </li>
                             <li>
@@ -249,7 +206,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('contact')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Contact Us
                                 </a>
                             </li>

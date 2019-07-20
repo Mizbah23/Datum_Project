@@ -9,7 +9,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-    <title>Infinitude Corporate Category Bootstrap Responsive Web Template | Contact :: W3layouts</title>
+    <title>Datum Engineering Ltd.| Contact </title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -47,7 +47,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                            <h1> <a class="navbar-brand px-0 mx-0" href="index.html">Infinitude
+                            <a class="navbar-brand" href=""><img width="150" height= "250" src="/images/datum.jpeg" ></a>
                                 </a>
                             </h1>
                         </div>
@@ -55,25 +55,24 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <label for="drop" class="toggle">Menu</label>
                         <input type="checkbox" id="drop" />
                         <ul class="menu mr-auto">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About</a></li>
+                            <li><a href="{{route('home')}}">Home</a></li>
+                            <li><a href="{{route('about')}}">About</a></li>
                             <li>
                                 <!-- First Tier Drop Down -->
-                                <label for="drop-2" class="toggle toggle-2">Pages <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="#">Pages  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <label for="drop-2" class="toggle toggle-2">Business<span class="fa fa-angle-down" aria-hidden="true"></span> </label>
+                                <a href="{{route('services')}}">Business  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-
-                                    <li><a href="services.html" class="drop-text">Services</a></li>
-                                    <li class="active"><a href="timeline.html" class="drop-text">Timeline</a></li>
-                                    <li><a href="team.html" class="drop-text">Team</a></li>
-                                    <li><a href="typo.html" class="drop-text">Typography</a></li>
-                                    <li><a href="error.html" class="drop-text">Faq's</a></li>
-                                    <li><a href="error.html" class="drop-text">Social Media</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
+                                    <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index.html">Projects</a></li>
-                            <li class="active"><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('home')}}">Projects</a></li>
+                            <li class="active"><a href="{{route('contact')}}">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -114,8 +113,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="px-lg-5">
                     <h3 class="tittle-w3ls mb-lg-5 mb-4"><span class="pink">Contact</span> Us</h3>
                     <p class="mt-5 pr-lg-5">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
-
-
+                  
+    <!--
                     <div class="contact-hny-form mt-lg-5 mt-3">
                         <h3 class="title-hny mb-lg-5 mb-3">
                             Drop a Line
@@ -160,6 +159,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
     <!-- //Contact -->
 
     <!-- /news-letter -->
+    <!--
     <section class="news-letter-w3pvt py-5">
         <div class="container contact-form mx-auto text-left">
             <h3 class="title-w3ls two text-left mb-3">Newsletter </h3>
@@ -180,14 +180,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         </div>
     </section>
     <!-- //news-letter -->
-
+     
     <!-- footer -->
     <footer class="py-lg-5 py-4">
         <div class="container py-sm-3">
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Infinitude
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -212,16 +212,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                    <h4 class="mb-4">Quick Links</h4>
+                       <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                        <ul class="list-info-wthree">
+                      <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Privacy Ploicy</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Ready to Build</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
-                        </ul>
+                        </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
                                 <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
@@ -269,8 +269,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="container">
             <div class="row d-flex">
                <div class="col-lg-9 copy_w3pvt">
-                    <p class="text-lg-left text-center">© 2019 Infinitude. All rights reserved | Design by
-                        <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
+                    <p class="text-lg-left text-center">© 2019 Datum Engineering Ltd. All rights reserved | Design by
+                        <a href="http://deshisysltd.com/" target="_blank">Deshi Systems Ltd.</a></p>
 
                 </div>
                 <!-- move top -->
