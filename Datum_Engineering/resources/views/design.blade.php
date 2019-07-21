@@ -90,7 +90,7 @@
                         <li class="breadcrumb-item">
                             <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">Single Page</li>
+                        <li class="breadcrumb-item active">More</li>
                     </ol>
 
                 </div>
@@ -106,28 +106,50 @@
         <div class="content-w3ls-inn px-lg-5">
             <div class="container py-md-5 py-3">
                 <div class="content-sing-w3pvt px-lg-5">
-                    <img class="img-fluid mb-2" src="images/101.jpg" alt="">
-                    <h4 class="title-hny my-2">We design and build</h4>
-                    <p>Datum Engineering Limited (DEL) is a fast growing multidisciplinary engineering (consultancy & Construction) organization engaged in the areas of civil and structural engineering, geotechnical engineering, urban planning and design, construction and project management services. Datum Engineering has started its journey since 2017 and finally registered as a limited company on July 2019 with the vision “safety & thrifty in the world of infrastructure". DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
-                    <p class="mt-2">DEL is adequately equipped with required logistics of transports, latest survey & investigation equipment, testing equipment, laboratory, server & personal computers, licensed software etc. 
-                    DEL has been actively participating in a large number of projects both in home and abroad. DEL has successfully completed a large number of projects in different development sectors. The projects are financed by various organizations.
+                    <img class="img-fluid mb-2" src="images/9.jpg" width="500" alt="">
+                    <h4 class="title-hny my-2">Architectural Design</h4>
+                    <p>We have an experienced team to visualize your dream in graphics with creative design and innovative thinking. Our design studio covers Architecture, Interiors, Graphics, and Landscaping. We are energetic and passionate about our work and committed to create a sustainable and beautiful spaces for clients far exceeding their expectations.</p>
+                    
+                    
+                    <h4 class="title-hny my-2">Structural Design</h4>
+                    <p>Our Engineers aim is to ensure safety of your structure according to Bangladesh national building code(BNBC) and other international code where requires whose. We take all critical rules and code to economize your building. We have experienced structural engineering team for design skeleton of your structure. We are designing Industrial building( Spinning shed, Dying shed and building for RMG sectors), Shopping complex, Residential Building.</p>
+                    <p class="mt-2">
+                          <div class="col-lg-6 about-img">
+                            <div class="row">
+                                <div class="col">
+                                    <img src="images/g10.jpg" class="img-fluid" alt="user-image">
+                                </div>
+                                <div class="col">
+                                    <img src="images/rsz_4.jpg" class="img-fluid" alt="user-image">
+                                </div>
+                            </div>
+                        </div>
                     </p>
-
-                    <h4 class="title-hny my-2">Who we are</h4>
-                    <p>Datum Engineering Limited (DEL) is a fast growing multidisciplinary engineering (consultancy & Construction) organization engaged in the areas of civil and structural engineering, geotechnical engineering urban planning and design, construction and project management services. Datum Engineering has started its journey since 2017 and finally registered as a limited company on July 2019 with the vision “Construction with safety & thrifty".</p>
-                    <p class="mt-2">DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p> 
-                    <p>Datum Engineering has a team of 21 members among which 12 professional are civil engineers; Geotechnical Engineers: Electrical Engineers, Mechanical Engineers six professionals from different discipline including architect, planners, lawyers and economist and three administrative and support staffs to take care of engineering works starting from concept to commissioning under one roof.
-                    </p>
+                   
 
                     <div class="row about-w3pvt-top mt-2">
 
                         <div class="col-lg-6 about-info">
-                            <h4 class="title-hny mb-3">What Datum Provide</h4>
-                            <p>DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion</p>
+                            <h4 class="title-hny mb-3">Electrical Design</h4>
+                            <p>Datum Engineering Ltd. delivers state-of-the-art design, installation and support to meet all your electrical needs. We serve the commercial, industrial and public sector industries. We are committed to implementing the latest technologies and industry practices to provide our clients with the solutions needed for success in today’s marketplace.</p>
+                        
+                        
+                            <ul><h5 class="title-hny mb-3">Electrical Services</h5>
+                                <li>Diagram for Electrical System</li>
+                                <li>Electrical Set Drawing Good for Construction</li>
+                                <li>Equipment Layout Plan and Design for Factories</li>
+                                <li>Substation Design and Construction</li>
+                                <li>Panels Supply and Installation as per Standard</li>
+                                <li>Rectification for Electrical Systems for Factories</li>
+                                <li>Electrical Assessment and Remediation Consultancy</li>
+                                <li>Exhaust Fan and Other Electrical Motor</li>
+                                <li>Supply and Installation</li>
+                                <li>Solar Panel Installation</li>
+                            </ul>
+                            </div>
 
-
-                        </div>
-                        <div class="col-lg-6 about-img">
+                        
+                        <div class="col-lg-8 about-img">
                             <div class="row">
                                 <div class="col">
                                     <img src="images/g10.jpg" class="img-fluid" alt="user-image">
@@ -258,7 +280,7 @@
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Infinitude
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -315,7 +337,7 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="contact.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('contact')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Contact Us
                                 </a>
                             </li>

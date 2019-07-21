@@ -47,7 +47,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                            <h1> <a class="navbar-brand px-0 mx-0" href="index.html">Infinitude
+                            <h1> <a class="navbar-brand px-0 mx-0" href="index.html">Datum
                                 </a>
                             </h1>
                         </div>
@@ -59,12 +59,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                             <li><a href="about.html">About</a></li>
                             <li>
                                 <!-- First Tier Drop Down -->
-                                <label for="drop-2" class="toggle toggle-2">Pages <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="#">Pages  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
+                                <a href="{{route('services')}}">Business<span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
 
-                                    <li><a href="services.html" class="drop-text">Services</a></li>
+                                    <li><a href="{{route('services')}}" class="drop-text">Services</a></li>
                                     <li><a href="timeline.html" class="drop-text">Timeline</a></li>
                                     <li class="active"><a href="team.html" class="drop-text">Team</a></li>
                                     <li><a href="typo.html" class="drop-text">Typography</a></li>
@@ -115,7 +115,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="single.html"><img src="images/team1.jpg" class="img-fluid" alt="user-image"></a>
+                 <a href="single.html"><img src="images/team1.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Designation</span>
@@ -136,7 +136,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
-                        </div>
+                        </div>-->
                     </div>
                 </div>
 
@@ -168,7 +168,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="single.html"><img src="images/team3.jpg" class="img-fluid" alt="user-image"></a>
+                     <a href="single.html"><img src="images/team3.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Designation</span>
@@ -285,7 +285,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Infinitude
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -322,12 +322,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         </ul>-->
                         <ul class="list-info-wthree ml-5">
                             <li>
-                                <a href="index.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('home')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Home
                                 </a>
                             </li>
                             <li>
-                                <a href="about.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="{{route('about')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     About Us
                                 </a>
                             </li>
@@ -367,8 +367,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         <div class="container">
             <div class="row d-flex">
                 <div class="col-lg-9 copy_w3pvt">
-                    <p class="text-lg-left text-center">© 2019 Infinitude. All rights reserved | Design by
-                        <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
+                    <p class="text-lg-left text-center">© 2019 Datum Engineering Ltd. All rights reserved | Design by
+                        <a href="http://www.deshisysltd.com//" target="_blank">Deshi Systems Ltd.</a></p>
 
                 </div>
                 <!-- move top -->

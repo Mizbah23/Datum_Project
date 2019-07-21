@@ -27,6 +27,8 @@
     <!-- font-awesome-icons -->
     <link href="css/font-awesome.css" rel="stylesheet">
     <!-- //font-awesome-icons -->
+    <link href="css/diamond.css" rel="stylesheet">
+    <link href="css/diamonds.css" rel="stylesheet">
 
 </head>
 <body>
@@ -147,7 +149,7 @@
     </section>
     <!-- //about -->
     <!--/ab-->
-    <!--
+<!--
     <section class="banner_bottom py-5">
         <div class="container py-md-5">
             <div class="row inner_sec_info">
@@ -174,167 +176,20 @@
     <!--/services-->
 
    
-    <section class="services" id="services">
-        <div class="over-lay-blue py-5">
-            <div class="container py-md-5">
-                <div class="row my-4">
-                    <div class="col-lg-5 services-innfo pr-5">
-                        <h3 class="tittle-w3ls two mb-3 text-left"><span class="pink">What</span> We Provide</h3>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
-                        <a href="{{route('services')}}"><img src="images/cons.jpg" alt="construction_image" class="img-fluid"></a>
-                    </div>
-                    <div class="col-lg-7 services-grid-inf">
-                        <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-lightbulb-o" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                   <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="{{route('single')}}">Creative Strategy</a></h4>
-                                        <p>Reconnaissance survey, project preparatory technical assistance, field surveys/investigations, digital survey.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-tree" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">Environmental & Social Assessment</a></h4>
-                                        <p>we assessed environmental and social impact</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird ">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-building-o" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="{{route('single')}}">Construction supervision,project management & monitoring</a></h4>
-                                        <p>Creating high user experienced.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-wrench" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">Soil Testing</a></h4>
-                                        <p>We do soil test.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-plug" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                   <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="{{route('single')}}">Electrical Design</a></h4>
-                                        <p>Design Electrical system</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-ils" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">Plumbing Design</a></h4>
-                                        <p></p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-building-o" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                   <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="{{route('single')}}">Structural design of RCC Building</a></h4>
-                                        <p>We provide the structural design of RCC building.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-shield" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="{{route('single')}}">Structural Design of steel structure</a></h4>
-                                        <p>Steel structure design is provided.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-
-                            <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-pencil-square-o" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                   <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="{{route('single')}}">Architectural Solution</a></h4>
-                                        <p>Provide architectural solution of different buildings.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                           
-
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
+  <section class="services" id="services">
+       <div class="over-lay-blue py-5">
+         <div id="shape-container">
+              <div class="diamond-grid">
+                  <div class="itam"></div>
+                  <div class="itam"></div>
+                  <div class="itam"></div>
+                  <div class="itam"></div>
+                  <div class="itam"></div>
+                  <div class="itam"></div>
+                  <div class="itam"></div>
+              </div>
+   
+</div>
         </div>
     </section>
 
@@ -370,7 +225,7 @@
                 </div>
 
                 <div class="col-md-4 gal-img">
-                    <a href="#gal5"><img src="images/rsz_4.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal5"><img src="images/rsz_build7.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -388,7 +243,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal8"><img src="images/g8.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal8"><img src="images/rsz_lb4.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -471,7 +326,7 @@
             <!-- popup-->
             <div id="gal8" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/g8.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/rsz_lb4.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
@@ -496,6 +351,7 @@
     <!--//mid-->
 
     <!--/services-->
+ 
     <section class="testmonials" id="test">
         <div class="over-lay-blue py-5">
             <div class="container py-md-5">
@@ -551,6 +407,7 @@
         </div>
     </section>
     <!--//testimonials-->
+
 
 
 
@@ -658,6 +515,18 @@
 
     </div>
     <!-- //copyright -->
+    <script type="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script src="jquery.diamonds.js"></script>
+    <script type="text/javascript">
+        $(".diamond-grid").diamonds({
+            size : 200, // Size of diamonds in pixels. Both width and height. 
+            gap : 5, // Pixels between each square.
+            hideIncompleteRow : false, // Hide last row if there are not enough items to fill it completely.
+            autoRedraw : true, // Auto redraw diamonds when it detects resizing.
+            itemSelector : ".itam" // the css selector to use to select diamonds-items.
+});
+    </script>
+   
 </body>
 
 </html>

@@ -58,10 +58,10 @@
                                 <a href="{{route('services')}}">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                  <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design </a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction </a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS </a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
@@ -105,9 +105,7 @@
         <div class="container py-md-5">
             <div class="about-hny-info text-left pr-lg-5">
                 <h3 class="tittle-w3ls mb-3"><span class="pink">Who</span> We Are</h3>
-                <p class="sub-tittle mt-3 mb-4 pr-lg-5">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula. Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Sed do eiusmod tempor incididunt ut labore et dolore
-                    magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
+                <p class="sub-tittle mt-3 mb-4 pr-lg-5">Datum Engineering Limited (DEL) is a fast growing multidisciplinary engineering (consultancy & Construction) organization engaged in the areas of civil and structural engineering, geotechnical engineering urban planning and design, construction and project management services. Datum Engineering has started its journey since 2017 and finally registered as a limited company on July 2019 with the vision “Construction with safety & thrifty". </p>
                 <a class="btn more black" href="{{route('single')}}" role="button">Read More</a>
             </div>
         </div>
@@ -119,7 +117,7 @@
             <div class="row inner_sec_info">
 
                 <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/4.jpg" alt=" " class="img-fluid">
+                    <img src="images/rsz_lb4.jpg" alt=" " class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
                     <h4><a class="link-hny" href="services.html">

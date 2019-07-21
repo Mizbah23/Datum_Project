@@ -64,6 +64,24 @@ body img {
     -o-border-radius: 4px;
     -ms-border-radius: 4px;
 }
+/*diamond*/
+.diamond-grid
+{
+  width: 70%;
+  margin: 150px auto 0;
+
+}
+.itam{
+  width: 220px;
+  height: 220px;
+  background: #fff;
+  transition: 0.5s;
+  opacity: 0.5;
+  transition: 0.5s;
+}
+.itam:hover{
+    opacity: 1;
+}
 
 /* navigation */
 

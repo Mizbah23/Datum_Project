@@ -59,10 +59,10 @@
                                 <a href="{{route('services')}}">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design </a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction </a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing </a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS</a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
@@ -91,7 +91,7 @@
                         <li class="breadcrumb-item">
                             <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">Developing Division</li>
+                        <li class="breadcrumb-item active">Survey/GIS</li>
                     </ol>
 
                 </div>
@@ -101,17 +101,7 @@
         </div>
     </div>
     <!-- about -->
-    <section class="about py-5">
-        <div class="container py-md-5">
-            <div class="about-hny-info text-left px-md-5">
-                <h3 class="tittle-w3ls mb-3"><span class="pink">What</span> we offer </h3>
-                <p class="sub-tittle mt-3 mb-4 pr-md-5">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula. Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Sed do eiusmod tempor incididunt ut labore et dolore
-                    magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                <a class="btn more black" href="single.html" role="button">Read More</a>
-            </div>
-        </div>
-    </section>
+    
     <!-- //about -->
     <!--/ab-->
     <section class="banner_bottom py-5">
@@ -119,140 +109,46 @@
             <div class="row inner_sec_info">
 
                 <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/arc.jpg" alt=" " class="img-fluid">
+                    <img src="images/surp1.jpg" alt=" " class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
                     <h4><a class="link-hny" href="services.html">
                             Great Modern Design and Unique Features</a></h4>
-                    <p>Pellentesque convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-                        pulvinar neque pharetra ac.</p>
-                    <p>Lorem Ipsum convallis diam consequat magna vulputate malesuada. Cras a ornare elit. Nulla viverra pharetra sem, eget
-                        pulvinar neque pharetra ac.</p>
+                    <p>The technique and science of determining the terrestrial, i.e. the three-dimensional position of points and the distances and angles between them, using digital/electronic means. Learn more in: Digital Surveying in Cultural Heritage: The Image-Based Recording and Documentation Approaches.
+                        </p>
+                    
                     <a class="btn more black mt-3" href="services.html" role="button">Services Info</a>
 
                 </div>
             </div>
-            <div class="row features-w3pvt-main" id="features">
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-globe" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Global Network</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-laptop" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Digital Agency</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4 feature-gird">
-                    <div class="row features-hny-inner-gd">
-                        <div class="col-md-3 featured_grid_left">
-                            <div class="icon_left_grid">
-                                <span class="fa fa-handshake-o" aria-hidden="true"></span>
-                            </div>
-                        </div>
-                        <div class="col-md-9 featured_grid_right_info pl-lg-0">
-                            <h4><a class="link-hny" href="single.html">Trusted Partner</a></h4>
-                            <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
+           
     </section>
     <!--//ab-->
+                 <section class="projects py-5" id="gallery">
+        <div class="container py-md-5">
+            <h3 class="tittle-w3ls text-left mb-5"><span class="pink">Photo</span> Gallery</h3>
+            <div class="row news-grids mt-md-5 mt-4 text-center">
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/const.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
+                    <div class="gal-info">
+                       
+                    </div>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/rsz_4.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <div class="gal-info">
+                      
+                    </div>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/rsz_gis.jpg" alt="construction building photo" class="img-fluid"></a>
+                    <div class="gal-info">
+                     
+                    </div>
+                </div>
 
     <!--/services-->
-    <section class="services" id="services">
-        <div class="over-lay-blue py-5">
-            <div class="container py-md-5">
-                <div class="row my-4">
-                    <div class="col-lg-5 services-innfo pr-5">
-                        <h3 class="tittle-w3ls two mb-3 text-left"><span class="pink">What</span> We Provide</h3>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                        <a href="services.html"><img src="images/cons.jpg"" alt="w3pvt" class="img-fluid"></a>
-                    </div>
-                    <div class="col-lg-7 services-grid-inf">
-                        <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-paint-brush" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">UI/UX Designs</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-bullhorn" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">SEO Marketing</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird ">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-shield" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">User Experience</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-lightbulb-o" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">Creative Strategy</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
+   
 
 
                         </div>
@@ -261,6 +157,9 @@
             </div>
         </div>
     </section>
+
+    <!--/services-->
+    
     <!--//services-->
 
     <!--/mid-->

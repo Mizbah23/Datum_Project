@@ -4,7 +4,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Datum Engineering Ltd. | Construction</title>
+    <title>Datum Engineering Ltd.| Developing Division</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -42,10 +42,11 @@
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                               <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg" ></a>
+                             <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg" ></a>
                                 </a>
                             </h1>
                         </div>
+
 
                         <label for="drop" class="toggle">Menu</label>
                         <input type="checkbox" id="drop" />
@@ -55,13 +56,13 @@
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="{{route('services')}}">Business  <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <a href="#">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction </a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing </a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS </a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
@@ -99,27 +100,34 @@
             <!-- //top-nav -->
         </div>
     </div>
-    <!-- //home -->
- <section class="banner_bottom py-5">
+   
+    <!--/ab-->
+    <section class="banner_bottom py-5">
         <div class="container py-md-5">
             <div class="row inner_sec_info">
 
                 <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/2.jpg" alt=" " class="img-fluid">
+                    <img src="images/arc.jpg" alt=" " class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
-                    <h4><a class="link-hny" href="{{route('single')}}">
-                             Modern construction underway</a></h4>
-                    <p>Our Engineers aim is to ensure safety of your structure according to Bangladesh national building code(BNBC) and other international code where requires whose. We take all critical rules and code to economize your building. We have experienced structural engineering team for design skeleton of your structure. We are designing Industrial building( Spinning shed, Dying shed and building for RMG sectors), Shopping complex, Residential Building.</p>
-                  
-                    <a class="btn more black mt-3" href="{{route('services')}}" role="button">Services Info</a>
+                    <h4><a class="link-hny" href="services.html">
+                           Develope the way you want </a></h4>
+                    <p>Datum is working to ensure safe dwelling for people within purchase capacity around Dhaka city. Client’s satisfactions with all relevant services are advertisement and goal. Your dream home’s key in our hand. We are offering a beautiful dwelling place at important location like Basundhara R/A.</p>
+                    
+                    <a class="btn more black mt-3" href="{{route('single')}}" role="button">Services Info</a>
 
                 </div>
             </div>
-    <!--/timeline -->
-      <section class="projects py-5" id="gallery">
+           
+                        
+
+            </div>
+        </div>
+    </section>
+    <!--//ab-->
+     <section class="projects py-5" id="gallery">
         <div class="container py-md-5">
-            <!--<h3 class="tittle-w3ls text-left mb-5"><span class="pink">Our</span> Projects</h3>-->
+            <h3 class="tittle-w3ls text-left mb-5"><span class="pink">Photo</span> Gallery</h3>
             <div class="row news-grids mt-md-5 mt-4 text-center">
                 <div class="col-md-4 gal-img">
                     <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
@@ -139,17 +147,35 @@
                      
                     </div>
                 </div>
-                
+
+    <!--/services-->
    
-    <!--//timeline-->
+
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--//services-->
+
+    <!--/mid-->
+
+    <!--//mid-->
+
+
+    <!-- /news-letter -->
+   
+    <!-- //news-letter -->
 
     <!-- footer -->
     <footer class="py-lg-5 py-4">
         <div class="container py-sm-3">
             <div class="row footer-grids">
-                <div class="col-lg-4 mt-4">
+                <div class="col-lg-4 col-sm-6 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="index.html">Datum Engineering Ltd.
                         </a>
                     </h2>
                     <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
@@ -173,7 +199,7 @@
 
                     </div>
                 </div>
-                <div class="col-lg-4 mt-4">
+                <div class="col-lg-4 col-sm-6 mt-4">
                   <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
                       <!--  <ul class="list-info-wthree">
@@ -196,8 +222,8 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="{{route('single')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                                    Details
+                                <a href="single.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                    Single Page
                                 </a>
                             </li>
                             <li>
@@ -206,14 +232,14 @@
                                 </a>
                             </li>
                             <li>
-                                <a href="{{route('contact')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="contact.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Contact Us
                                 </a>
                             </li>
                         </ul>
                     </div>
                 </div>
-                <div class="col-lg-4 mt-4 ad-info">
+                <div class="col-lg-4 col-sm-6 mt-4 ad-info">
                     <h4 class="mb-4">Contact Info</h4>
                     <p><span class="fa fa-map-marker"></span>90 nsequursu dsdesdc,
                         xxx Honey Street 049436.<span>Newyork, NY.</span></p>
@@ -231,8 +257,8 @@
         <div class="container">
             <div class="row d-flex">
                <div class="col-lg-9 copy_w3pvt">
-                    <p class="text-lg-left text-center">© 2019 Datum Engneering Ltd. All rights reserved | Design by
-                        <a href="http://http://deshisysltd.com/" target="_blank">Deshi Systems Ltd.</a></p>
+                    <p class="text-lg-left text-center">© 2019 Datum Engineering Ltd. All rights reserved | Design by
+                        <a href="http://deshisysltd.com/" target="_blank">Deshi Systems Ltd.</a></p>
 
                 </div>
                 <!-- move top -->

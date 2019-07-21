@@ -59,10 +59,10 @@
                                 <a href="{{route('services')}}">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design </a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction </a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing </a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS </a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
@@ -121,10 +121,12 @@
         <div class="container py-md-5">
             <div class="about-hny-info text-left px-md-5">
                 <h3 class="tittle-w3ls mb-3"><span class="pink">What</span> we offer </h3>
-                <p class="sub-tittle mt-3 mb-4 pr-md-5">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula. Lorem ipsum dolor sit amet sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.Sed do eiusmod tempor incididunt ut labore et dolore
-                    magna
-                    aliqua. Ut enim ad minim veniam, quis nostrud exercitation</p>
-                <a class="btn more black" href="{{route('single')}}" role="button">Read More</a>
+                 <ul>
+                     <li>Architectural Design</li>
+                     <li>Structural Design</li>
+                     <li>Electrical Design</li>
+                 </ul>
+                <a class="btn more black" href="{{route('design')}}" role="button">Read More</a>
             </div>
         </div>
     </section>
@@ -136,94 +138,7 @@
     <!--//ab-->
 
     <!--/services-->
-    <section class="services" id="services">
-        <div class="over-lay-blue py-5">
-            <div class="container py-md-5">
-                <div class="row my-4">
-                    <div class="col-lg-5 services-innfo pr-5">
-                        <h3 class="tittle-w3ls two mb-3 text-left"><span class="pink">What</span> We Provide</h3>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                        <a href="services.html"><img src="images/cons.jpg"" alt="w3pvt" class="img-fluid"></a>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                    </div>
-                       <a href="services.html"><img src="images/cons.jpg"" alt="w3pvt" class="img-fluid"></a>
-                        <p class="sub-tittle mt-2 mb-sm-3 text-left">Integer pulvinar leo id viverra feugiat. Pellentesque libero ut justo, semper at tempus vel, ultrices in ligula..</p>
-                    <div>
-                        
-                    </div>
-                    <div class="col-lg-7 services-grid-inf">
-                        <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-paint-brush" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">UI/UX Designs</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-bullhorn" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">SEO Marketing</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-
-                        </div>
-                        <div class="row services-w3pvt-main mt-5">
-                            <div class="col-lg-6 feature-gird ">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-shield" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">User Experience</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-                            <div class="col-lg-6 feature-gird">
-                                <div class="row features-hny-inner-gd mt-3">
-                                    <div class="col-md-2 featured_grid_left">
-                                        <div class="icon_left_grid">
-                                            <span class="fa fa-lightbulb-o" aria-hidden="true"></span>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-10 featured_grid_right_info">
-                                        <h4><a class="link-hny" href="single.html">Creative Strategy</a></h4>
-                                        <p>Lorem Ipsum is simply text the printing and typesetting standard industry.</p>
-
-                                    </div>
-
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+    
     <!--//services-->
 
     <!--/mid-->
