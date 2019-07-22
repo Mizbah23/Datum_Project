@@ -176,15 +176,22 @@
     <!--/services-->
     <section class="services" id="services">
        <div class="over-lay-blue py-5">
-         <div id="shape-container">
+         <div class="row my-4">
+            <div class="container py-md-5">
+                    <div class="col-lg-5 services-innfo pr-5">
+      <h3 class="tittle-w3ls two mb-3 text-center"><span class="pink">What</span> We Provide</h3>
+            
+              
               <div class="diamond-grid">
-                  <div class="itam"><img src="images/g11.jpg"></div>
-                  <div class="itam"><img src=""></div>
-                  <div class="itam"><img src=""></div>
-                  <div class="itam"><img src=""></div>
-                  <div class="itam"><img src=""></div>
-                  <div class="itam"><img src=""></div>
-                  <div class="itam"><img src=""></div>
+                  <div class="itam"><img src="images/g11.jpg"><div class="txt">Hello</div></div>
+                  <div class="itam"><img src="images/arc.jpg"></div>
+                  <div class="itam"><img src="images/const.jpg"></div>
+                  <div class="itam"><img src="images/rsz_banner.jpg"></div>
+                  <div class="itam"><img src="images/g1.jpg"></div>
+                  <div class="itam"><img src="images/rsz_5.jpg"></div>
+                  <div class="itam"><img src="images/rsz_gis.jpg"></div>
+                  <div class="itam"><img src="images/rsz_lb4.jpg"></div>
+                  <div class="itam"><img src="images/101.jpg"></div>
               </div>
    
            </div>

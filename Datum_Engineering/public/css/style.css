@@ -67,10 +67,10 @@ body img {
 /*diamond*/
 .diamond-grid
 {
-  width: 70%;
+  width: 270%;
   margin: -50px auto 0;
-  margin-top: 50px;
-  margin-bottom: 100px;
+  margin-top: 70px;
+  margin-bottom: 70px;
 
 }
 .itam{
@@ -82,11 +82,21 @@ body img {
   transition: 0.5s;
 }
 .itam:hover{
-    opacity: 1;
+    opacity: 2;
 }
 .itam img{
-   width: 125%; 
+   width: 120%; 
 }
+.txt{
+  position: absolute;
+  bottom: 85px;
+  right: 85px;
+  
+  color: white;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
 
 /* navigation */
 
@@ -861,7 +871,7 @@ h3.tittle-w3ls.two {
 
 /*--//features--*/
 .services {
-    background: url(../images/cons.jpg) no-repeat top;
+    background: url(../images/6.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
