@@ -182,12 +182,11 @@
       <h3 class="tittle-w3ls two mb-3 text-center"><span class="pink">What</span> We Provide</h3>
             
               
-              <div class="diamond-grid">
-                  <div class="itam"><img src="images/g11.jpg"><div class="txt">Hello</div></div>
+              <div class="diamond-grid ml-xl-5">
+                  <div class="itam"><img src="images/soiltest.jpg"><div class="txt">Soil Test</h5></div></div>
                   <div class="itam"><img src="images/arc.jpg"></div>
                   <div class="itam"><img src="images/const.jpg"></div>
                   <div class="itam"><img src="images/rsz_banner.jpg"></div>
-                  <div class="itam"><img src="images/g1.jpg"></div>
                   <div class="itam"><img src="images/rsz_5.jpg"></div>
                   <div class="itam"><img src="images/rsz_gis.jpg"></div>
                   <div class="itam"><img src="images/rsz_lb4.jpg"></div>
@@ -524,8 +523,8 @@
     <script src="js/jquery.diamonds.js"></script>
     <script>
         $(".diamond-grid").diamonds({
-            size : 200, // Size of diamonds in pixels. Both width and height. 
-            gap : 5, // Pixels between each square.
+            size : 230, // Size of diamonds in pixels. Both width and height. 
+            gap :6, // Pixels between each square.
             hideIncompleteRow : false, // Hide last row if there are not enough items to fill it completely.
             autoRedraw : true, // Auto redraw diamonds when it detects resizing.
             itemSelector : ".itam" // the css selector to use to select diamonds-items.
