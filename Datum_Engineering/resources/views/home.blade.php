@@ -178,13 +178,13 @@
        <div class="over-lay-blue py-5">
          <div id="shape-container">
               <div class="diamond-grid">
-                  <div class="itam"></div>
-                  <div class="itam"></div>
-                  <div class="itam"></div>
-                  <div class="itam"></div>
-                  <div class="itam"></div>
-                  <div class="itam"></div>
-                  <div class="itam"></div>
+                  <div class="itam"><img src="images/g11.jpg"></div>
+                  <div class="itam"><img src=""></div>
+                  <div class="itam"><img src=""></div>
+                  <div class="itam"><img src=""></div>
+                  <div class="itam"><img src=""></div>
+                  <div class="itam"><img src=""></div>
+                  <div class="itam"><img src=""></div>
               </div>
    
            </div>

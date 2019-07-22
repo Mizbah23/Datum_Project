@@ -84,6 +84,9 @@ body img {
 .itam:hover{
     opacity: 1;
 }
+.itam img{
+   width: 125%; 
+}
 
 /* navigation */
 
