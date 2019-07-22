@@ -68,9 +68,12 @@ body img {
 .diamond-grid
 {
   width: 200%;
-  margin: -50px auto 0;
-  margin-top: 50px;
-  margin-bottom: 50px;
+
+  
+
+  margin-top: 40px;
+  margin-bottom:15px;
+
 
 }
 .itam{
@@ -78,11 +81,11 @@ body img {
   height: 220px;
   background: #fff;
   transition: 0.5s;
-  opacity: 0.5;
+  opacity:.5;
   transition: 0.5s;
 }
 .itam:hover{
-    opacity: 2;
+    opacity: 1;
 }
 .itam img{
    width: 120%; 
@@ -90,11 +93,11 @@ body img {
 .txt{
   position: absolute;
   bottom: 85px;
-  right: 85px;
-  
+  filter: brightness(200%);
+  opacity: 1;
   color: white;
-  padding-left: 30px;
-  padding-right: 30px;
+  font-weight: bold;
+  padding-left: 60px;
 }
 
 

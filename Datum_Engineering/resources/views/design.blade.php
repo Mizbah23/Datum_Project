@@ -106,18 +106,16 @@
         <div class="content-w3ls-inn px-lg-5">
             <div class="container py-md-5 py-3">
                 <div class="content-sing-w3pvt px-lg-5">
-                    <img class="img-fluid mb-2" src="images/9.jpg" width="500" alt="">
+                    <img class="img-fluid mb-2" src="images/g10.jpg" width="500" alt="">
+                       <h4 class="title-hny my-2">Structural Design</h4>
+                    <p>Our Engineers aim is to ensure safety of your structure according to Bangladesh national building code(BNBC) and other internatiimages/g10.jpgonal code where requires whose. We take all critical rules and code to economize your building. We have experienced structural engineering team for design skeleton of your structure. We are designing Industrial building( Spinning shed, Dying shed and building for RMG sectors), Shopping complex, Residential Building.</p>
                     <h4 class="title-hny my-2">Architectural Design</h4>
                     <p>We have an experienced team to visualize your dream in graphics with creative design and innovative thinking. Our design studio covers Architecture, Interiors, Graphics, and Landscaping. We are energetic and passionate about our work and committed to create a sustainable and beautiful spaces for clients far exceeding their expectations.</p>
-                    
-                    
-                    <h4 class="title-hny my-2">Structural Design</h4>
-                    <p>Our Engineers aim is to ensure safety of your structure according to Bangladesh national building code(BNBC) and other international code where requires whose. We take all critical rules and code to economize your building. We have experienced structural engineering team for design skeleton of your structure. We are designing Industrial building( Spinning shed, Dying shed and building for RMG sectors), Shopping complex, Residential Building.</p>
                     <p class="mt-2">
                           <div class="col-lg-6 about-img">
                             <div class="row">
                                 <div class="col">
-                                    <img src="images/g10.jpg" class="img-fluid" alt="user-image">
+                                    <img src="images/9.jpg" class="img-fluid" alt="user-image">
                                 </div>
                                 <div class="col">
                                     <img src="images/rsz_4.jpg" class="img-fluid" alt="user-image">
@@ -135,7 +133,7 @@
                         
                         
                             <ul><h5 class="title-hny mb-3">Electrical Services</h5>
-                              <div style="margin-left: 20px">
+                              <div class="ml-md-4">
                             	<li>Diagram for Electrical System</li>
                                 <li>Electrical Set Drawing Good for Construction</li>
                                 <li>Equipment Layout Plan and Design for Factories</li>
@@ -152,7 +150,7 @@
                             </div>
 
                         
-                        <div class="col-lg-8 about-img">
+                        <div class="col-lg-8 about-img mt-md-4">
                             <div class="row">
                                 <div class="col">
                                     <img src="images/g10.jpg" class="img-fluid" alt="user-image">
