@@ -122,11 +122,13 @@
             <div class="about-hny-info text-left px-md-5">
                 <h3 class="tittle-w3ls mb-3"><span class="pink">What</span> we offer </h3>
                  <ul>
+                    <div class="ml-lg-4">
                      <li>Architectural Design</li>
                      <li>Structural Design</li>
                      <li>Electrical Design</li>
+                    </div>
                  </ul>
-                <a class="btn more black" href="{{route('design')}}" role="button">Read More</a>
+                <a class="btn more black mt-md-2" href="{{route('design')}}" role="button">Read More</a>
             </div>
         </div>
     </section>
