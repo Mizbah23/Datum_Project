@@ -174,9 +174,7 @@
     <!--//ab-->
 
     <!--/services-->
-
-   
-  <section class="services" id="services">
+    <section class="services" id="services">
        <div class="over-lay-blue py-5">
          <div id="shape-container">
               <div class="diamond-grid">
@@ -189,7 +187,7 @@
                   <div class="itam"></div>
               </div>
    
-</div>
+           </div>
         </div>
     </section>
 
@@ -515,9 +513,9 @@
 
     </div>
     <!-- //copyright -->
-    <script type="https://code.jquery.com/jquery-3.1.1.js"></script>
-    <script src="jquery.diamonds.js"></script>
-    <script type="text/javascript">
+    <script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+    <script src="js/jquery.diamonds.js"></script>
+    <script>
         $(".diamond-grid").diamonds({
             size : 200, // Size of diamonds in pixels. Both width and height. 
             gap : 5, // Pixels between each square.
