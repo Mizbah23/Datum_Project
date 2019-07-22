@@ -135,7 +135,8 @@
                         
                         
                             <ul><h5 class="title-hny mb-3">Electrical Services</h5>
-                                <li>Diagram for Electrical System</li>
+                              <div style="margin-left: 20px">
+                            	<li>Diagram for Electrical System</li>
                                 <li>Electrical Set Drawing Good for Construction</li>
                                 <li>Equipment Layout Plan and Design for Factories</li>
                                 <li>Substation Design and Construction</li>
@@ -145,6 +146,8 @@
                                 <li>Exhaust Fan and Other Electrical Motor</li>
                                 <li>Supply and Installation</li>
                                 <li>Solar Panel Installation</li>
+                              </div>
+                                
                             </ul>
                             </div>
 
