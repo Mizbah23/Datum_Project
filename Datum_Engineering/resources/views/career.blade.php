@@ -1,9 +1,10 @@
 
+
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
-    <title> MEP</title>
+    <title>Datum Engineering Ltd.| Design Division</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -55,7 +56,7 @@
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
-                                <a href="#">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
+                                <a href="{{route('services')}}">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
                                     <li class="active"><a href="{{route('services')}}" class="drop-text">Design </a></li>
@@ -67,7 +68,7 @@
                                 </ul>
                             </li>
                             <li><a href="{{route('home')}}">Projects</a></li>
-                            <li><a href="{{route('contact')}}">Contact</a></li>
+                            <li><a href="#">Contact</a></li>
 
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
@@ -90,7 +91,7 @@
                         <li class="breadcrumb-item">
                             <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">MEP </li>
+                        <li class="breadcrumb-item active">Career</li>
                     </ol>
 
                 </div>
@@ -99,56 +100,17 @@
             <!-- //top-nav -->
         </div>
     </div>
-   
+        <section class="banner_bottom py-5" >
+        <center>Feel free to send CV <a href="mailto:datum5555@gmail.com">datum5555@gmail.com</a> here or at <a href="http://bdjobs.com/" target="_blank">BDjobs</a></center>
+    <!-- //about -->
     <!--/ab-->
-    <section class="banner_bottom py-5">
-        <div class="container py-md-5">
-            <div class="row inner_sec_info">
 
-                <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/soiltesting.jpg" alt="" height="700" width="400" class="img-fluid">
-                </div>
-                <div class="col-md-6 banner_bottom_left">
-                    <h4><a class="link-hny" href="#">
-                          We do stunning MEP work</a></h4>
-                    <p>Mechanical, electrical and plumbing (MEP) systems are an important part of building services and can have many different function.<p>
-                    <p>Typically designed by specialized  consultants and contractors, MEP systems can present complex challenges in terms of coordination and detailing. They must satisfy multiple objectives and criteria for design, installation, commissiming, operation and maintenance.
-                    </p>
-                    </div>
-                    <div class="col about-info">
-                            <h4 class="title-hny mb-3">Mechanical</h4>
-                            <p>Datum Engineering Ltd. delivers state-of-the-art design, installation and support to meet all your electrical needs. We serve the commercial, industrial and public sector industries. We are committed to implementing the latest technologies and industry practices to provide our clients with the solutions needed for success in today’s marketplace.</p>
-                        
-                        
-                            <ul class="title-hny mb-3">Heating ventilation and air conditioning can be used in building to:
-                              <div class="ml-md-4">
-                                <li>Maintain internal air quality.</li>
-                                <li>Regulate internal temperatures.</li>
-                                <li>Regulate internal humidity.</li>
-  
-                              </div>
-                                
-                            </ul>
-                    <div class="row news-grids mt-md-5 mt-4 text-center">
-                <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
-                </div>
-                <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
-                   
-                </div>
-                   </div>
-                    
-                     </div>
-               
-           
-                        
-
-            </div>
-        </div>
+    
     </section>
     <!--//ab-->
-     
+
+    <!--/services-->
+    
     <!--//services-->
 
     <!--/mid-->

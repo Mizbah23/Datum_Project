@@ -4,7 +4,7 @@
 <html lang="zxx">
 
 <head>
-    <title>Datum Engineering Ltd.| Developing Division</title>
+    <title>Survey</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -151,11 +151,7 @@
    
 
 
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
+                    
     </section>
 
     <!--/services-->

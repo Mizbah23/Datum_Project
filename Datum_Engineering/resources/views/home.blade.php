@@ -477,6 +477,11 @@
                                     Team
                                 </a>
                             </li>
+                              <li>
+                                <a href="{{route('career')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                    Career
+                                </a>
+                            </li>
                             <li>
                                 <a href="{{route('contact')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Contact Us
