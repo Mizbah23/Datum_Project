@@ -68,17 +68,12 @@ body img {
 .diamond-grid
 {
   width: 200%;
-
-  
-
   margin-top: 40px;
   margin-bottom:15px;
-
-
 }
 .itam{
-  width: 220px;
-  height: 220px;
+  width:330px;
+  height:300px;
   background: #fff;
   transition: 0.5s;
   opacity:.5;
@@ -874,7 +869,7 @@ h3.tittle-w3ls.two {
 
 /*--//features--*/
 .services {
-    background: url(../images/6.jpg) no-repeat top;
+    background: url(../images/struct1.jpg) no-repeat top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

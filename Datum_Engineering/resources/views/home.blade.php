@@ -176,25 +176,32 @@
     <!--/services-->
     <section class="services" id="services">
        <div class="over-lay-blue py-5">
-         <div class="row my-4">
+         <div class="row my-4 ml-lg-5">
             <div class="container py-md-5">
-                    <div class="col-lg-5 services-innfo pr-5">
-      <h3 class="tittle-w3ls two mb-3 text-center"><span class="pink">What</span> We Provide</h3>
-            
-              
-              <div class="diamond-grid ml-xl-5">
-                  <div class="itam"><img src="images/soiltest.jpg"><div class="txt">Soil Test</h5></div></div>
-                  <div class="itam"><img src="images/arc.jpg"></div>
-                  <div class="itam"><img src="images/const.jpg"></div>
-                  <div class="itam"><img src="images/rsz_banner.jpg"></div>
-                  <div class="itam"><img src="images/rsz_5.jpg"></div>
-                  <div class="itam"><img src="images/rsz_gis.jpg"></div>
-                  <div class="itam"><img src="images/rsz_lb4.jpg"></div>
-                  <div class="itam"><img src="images/101.jpg"></div>
-              </div>
-   
-           </div>
-        </div>
+                <div class="col-lg-5 services-innfo pr-5 ml-lg-5">
+                   <h3 class="tittle-w3ls two mb-3 text-center"><span class="pink">What</span> We Provide</h3>
+                   <div class="diamond-grid ml-lg-5">
+                        <div class="itam"><img src="images/arc2.jpg">
+                        <div class="txt"><h5>Architectural<br>Solution</h5></div></div>
+                        <div class="itam"><img src="images/struct40.jpg">
+                        <div class="txt"><h5>Structural<br>Design</h5></div></div>
+                        <div class="itam"><img src="images/const1.jpg">
+                        <div class="txt"><h5>Construction</h5></div></div>
+                        <div class="itam"><img src="images/developmet.jpg">
+                        <div class="txt"><h5>Developing</h5></div></div>
+                        <div class="itam"><img src="images/project1.jpg">
+                        <div class="txt"><h5>Project<br>Management</h5></div></div>
+                        <div class="itam"><img src="images/6.jpg">
+                        <div class="txt"><h5>Electrical &<br> Plumbing</h5></div></div>
+                        <div class="itam"><img src="images/dls.jpg">
+                        <div class="txt"><h5>Digital<br>Survey/GIS</h5></div></div>
+                        <div class="itam"><img src="images/soil3.jpeg">
+                        <div class="txt"><h5>Soil Test</h5></div></div>
+                  </div>
+               </div>
+            </div>
+          </div>
+     </div>
     </section>
 
     <!--//services-->
