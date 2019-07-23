@@ -72,12 +72,9 @@
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
                                 </a> </li>
-                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-twitter" aria-hidden="true"></span>
-                                    <div class="tooltip">Twitter</div>
-                                </a> </li>
-                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-instagram" aria-hidden="true"></span>
-                                    <div class="tooltip">Instagram</div>
-                                </a> </li>
+                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
+                                <div class="tooltip">Google</div>
+                            </a> </li>
                         </ul>
                     </nav>
                     <!-- //nav -->
@@ -152,13 +149,6 @@
                                 <span class="fa fa-facebook"></span>
                             </a>
                             <a href="#" class="button-footr">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-pinterest"></span>
-                            </a>
-                            <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
@@ -179,13 +169,6 @@
                                 <span class="fa fa-facebook"></span>
                             </a>
                             <a href="#" class="button-footr">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-pinterest"></span>
-                            </a>
-                            <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
@@ -203,13 +186,6 @@
                         <div class="icon-social team mt-4">
                             <a href="#" class="button-footr">
                                 <span class="fa fa-facebook"></span>
-                            </a>
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-twitter"></span>
-                            </a>
-
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-pinterest"></span>
                             </a>
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
@@ -242,15 +218,6 @@
                     <div class="icon-social mt-4">
                         <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-facebook"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-twitter"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-dribbble"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-pinterest"></span>
                         </a>
                         <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-google-plus"></span>
