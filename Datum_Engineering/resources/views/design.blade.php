@@ -72,12 +72,9 @@
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
                                 </a> </li>
-                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-twitter" aria-hidden="true"></span>
-                                    <div class="tooltip">Twitter</div>
-                                </a> </li>
-                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-instagram" aria-hidden="true"></span>
-                                    <div class="tooltip">Instagram</div>
-                                </a> </li>
+                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
+                                <div class="tooltip">Google</div>
+                            </a> </li>
                         </ul>
                     </nav>
                     <!-- //nav -->
@@ -115,10 +112,10 @@
                           <div class="col-lg-6 about-img">
                             <div class="row">
                                 <div class="col">
-                                    <img src="images/9.jpg" class="img-fluid" alt="user-image">
+                                    <img src="images/101copy.jpg" class="img-fluid responsive" alt="user-image">
                                 </div>
-                                <div class="col">
-                                    <img src="images/rsz_4.jpg" class="img-fluid" alt="user-image">
+                                <div  class="col">
+                                    <img src="images/conscopy.jpg" class="img-fluid responsive" alt="user-image">
                                 </div>
                             </div>
                         </div>
@@ -153,10 +150,10 @@
                         <div class="col-lg-8 about-img mt-md-4">
                             <div class="row">
                                 <div class="col">
-                                    <img src="images/g10.jpg" class="img-fluid" alt="user-image">
+                                    <img src="images/6copy.jpg" class="img-fluid responsive" alt="user-image">
                                 </div>
                                 <div class="col">
-                                    <img src="images/rsz_4.jpg" class="img-fluid" alt="user-image">
+                                    <img src="images/9copy.jpg" class="img-fluid responsive" alt="user-image">
                                 </div>
                             </div>
                         </div>
@@ -175,27 +172,7 @@
                             </li>
                             <li>
                                 <a href="#">
-                                    <span class="fa fa-twitter"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-dribbble"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
                                     <span class="fa fa-google-plus"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-pinterest-p"></span>
-                                </a>
-                            </li>
-                            <li>
-                                <a href="#">
-                                    <span class="fa fa-vk"></span>
                                 </a>
                             </li>
                         </ul>
@@ -289,15 +266,6 @@
                     <div class="icon-social mt-4">
                         <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-facebook"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-twitter"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-dribbble"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-pinterest"></span>
                         </a>
                         <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-google-plus"></span>
