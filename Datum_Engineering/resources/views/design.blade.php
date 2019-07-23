@@ -284,7 +284,7 @@
                     <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum
                         </a>
                     </h2>
-                    <p class="mb-3">Lorem Ipsum is simply text the printing and typesetting standard industry. Onec Consequat sapien ut cursus rhoncus. Nullam dui mi, vulputate ac metus.</p>
+                    <p class="mb-3">DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
                     <h5>Trusted by <span>500+ People</span> </h5>
                     <div class="icon-social mt-4">
                         <a href="#" class="button-footr">
