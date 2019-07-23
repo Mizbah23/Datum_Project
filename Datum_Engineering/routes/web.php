@@ -24,3 +24,4 @@ Route::get('/soiltest', 'soiltestController@index')->name('soiltest');
 Route::get('/mep', 'mepController@index')->name('mep');
 Route::get('/team', 'teamController@index')->name('team');
 Route::get('/moredesign', 'designController@index')->name('design');
+Route::get('/career', 'careerController@index')->name('career');

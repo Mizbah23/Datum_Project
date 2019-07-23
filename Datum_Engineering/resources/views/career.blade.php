@@ -73,9 +73,12 @@
                             <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                     <div class="tooltip">Facebook</div>
                                 </a> </li>
-                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
-                                <div class="tooltip">Google</div>
-                            </a> </li>
+                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-twitter" aria-hidden="true"></span>
+                                    <div class="tooltip">Twitter</div>
+                                </a> </li>
+                            <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-instagram" aria-hidden="true"></span>
+                                    <div class="tooltip">Instagram</div>
+                                </a> </li>
                         </ul>
                     </nav>
                     <!-- //nav -->
@@ -88,7 +91,7 @@
                         <li class="breadcrumb-item">
                             <a href="{{route('home')}}">Home</a>
                         </li>
-                        <li class="breadcrumb-item active">Design Division</li>
+                        <li class="breadcrumb-item active">Career</li>
                     </ol>
 
                 </div>
@@ -97,38 +100,8 @@
             <!-- //top-nav -->
         </div>
     </div>
-        <section class="banner_bottom py-5">
-        <div class="container py-md-5">
-            <div class="row inner_sec_info">
-
-                <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/arc.jpg" alt=" " class="img-fluid">
-                </div>
-                <div class="col-md-6 banner_bottom_left">
-                    <h4><a class="link-hny" href="{{route('services')}}">
-                            Great Modern Design and Unique Features</a></h4>
-                    <p>We have an experienced team to visualize your dream in graphics with creative design and innovative thinking. Our design studio covers Architecture, Interiors, Graphics, and Landscaping. We are energetic and passionate about our work and committed to create a sustainable and beautiful spaces for clients far exceeding their expectations.</p>
-                  
-                    <a class="btn more black mt-3" href="{{route('services')}}" role="button">Services Info</a>
-
-                </div>
-            </div>
-    <!-- about -->
-    <section class="about py-5">
-        <div class="container py-md-5">
-            <div class="about-hny-info text-left px-md-5">
-                <h3 class="tittle-w3ls mb-3"><span class="pink">What</span> we offer </h3>
-                 <ul>
-                    <div class="ml-lg-4">
-                     <li>Architectural Design</li>
-                     <li>Structural Design</li>
-                     <li>Electrical Design</li>
-                    </div>
-                 </ul>
-                <a class="btn more black mt-md-2" href="{{route('design')}}" role="button">Read More</a>
-            </div>
-        </div>
-    </section>
+        <section class="banner_bottom py-5" >
+        <center>Feel free to send CV <a href="mailto:datum5555@gmail.com">datum5555@gmail.com</a> here or at <a href="http://bdjobs.com/" target="_blank">BDjobs</a></center>
     <!-- //about -->
     <!--/ab-->
 
@@ -163,6 +136,15 @@
                     <div class="icon-social mt-4">
                         <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-facebook"></span>
+                        </a>
+                        <a href="#" class="button-footr">
+                            <span class="fa mx-2 fa-twitter"></span>
+                        </a>
+                        <a href="#" class="button-footr">
+                            <span class="fa mx-2 fa-dribbble"></span>
+                        </a>
+                        <a href="#" class="button-footr">
+                            <span class="fa mx-2 fa-pinterest"></span>
                         </a>
                         <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-google-plus"></span>

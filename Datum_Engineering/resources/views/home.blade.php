@@ -71,11 +71,8 @@
                         <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                 <div class="tooltip">Facebook</div>
                             </a> </li>
-                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-twitter" aria-hidden="true"></span>
-                                <div class="tooltip">Twitter</div>
-                            </a> </li>
-                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-instagram" aria-hidden="true"></span>
-                                <div class="tooltip">Instagram</div>
+                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
+                                <div class="tooltip">Google</div>
                             </a> </li>
                     </ul>
                 </nav>
@@ -438,15 +435,6 @@
                             <span class="fa mx-2 fa-facebook"></span>
                         </a>
                         <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-twitter"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-dribbble"></span>
-                        </a>
-                        <a href="#" class="button-footr">
-                            <span class="fa mx-2 fa-pinterest"></span>
-                        </a>
-                        <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-google-plus"></span>
                         </a>
 
@@ -482,6 +470,11 @@
                             <li>
                                 <a href="{{route('team')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Team
+                                </a>
+                            </li>
+                              <li>
+                                <a href="{{route('career')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                    Career
                                 </a>
                             </li>
                             <li>
