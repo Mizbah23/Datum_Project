@@ -58,10 +58,10 @@
                                 <a href="#">Business <span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design </a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction </a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing </a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS </a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
@@ -103,7 +103,7 @@
         <div class="container py-md-5">
             <div class="row inner_sec_info">
 
-                <div class="col-md-6 banner_bottom_grid help">
+                <diqv class="col-md-6 banner_bottom_grid help">
                     <img src="images/mep1.jpg" alt="" height="700" width="400" class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
@@ -137,7 +137,7 @@
                 </div>
                 <div class="col-md-6 banner_bottom_left">
 
-                            <ul class="title-hny mb-3">Plumbing systems might be used for:
+                            <ul class="title-hny mb-3">Heating ventilation and air conditioning can be used in building to:
                               <div class="ml-md-4">
                                 <li>Heating and cooling.</li>
                                 <li>Waste removal.</li>
