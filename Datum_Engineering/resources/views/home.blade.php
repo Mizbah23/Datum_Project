@@ -68,10 +68,10 @@
                         <li><a href="#gallery">Projects</a></li>
                         <li><a href="{{route('contact')}}">Contact</a></li>
 
-                        <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
+                        <li class="social-icons ml-lg-3"><a href="https://www.facebook.com/Datum55/" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                 <div class="tooltip">Facebook</div>
                             </a> </li>
-                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
+                        <li class="social-icons"><a href="mailto:datam5555@gmail.com" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
                                 <div class="tooltip">Google</div>
                             </a> </li>
                     </ul>
@@ -431,10 +431,10 @@
                     <p class="mb-3">DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
                     <h5>Trusted by <span>500+ People</span> </h5>
                     <div class="icon-social mt-4">
-                        <a href="#" class="button-footr">
+                        <a href="https://www.facebook.com/Datum55/" class="button-footr">
                             <span class="fa mx-2 fa-facebook"></span>
                         </a>
-                        <a href="#" class="button-footr">
+                        <a href="mailto:datam5555@gmail.com" class="button-footr">
                             <span class="fa mx-2 fa-google-plus"></span>
                         </a>
 
@@ -487,11 +487,10 @@
                 </div>
                 <div class="col-lg-4 mt-4 ad-info">
                     <h4 class="mb-4">Contact Info</h4>
-                    <p><span class="fa fa-map-marker"></span>90 nsequursu dsdesdc,
-                        xxx Honey Street 049436.<span>Newyork, NY.</span></p>
-                    <p class="phone"><span class="fa fa-phone"></span> +1(12) 123 456 789 </p>
-                    <p class="phone"><span class="fa fa-fax"></span> +1(12) 123 456 789 </p>
-                    <p><span class="fa fa-envelope"></span><a href="mailto:info@example.com">info@example.com</a></p>
+                    <p><span class="fa fa-map-marker"></span><span class="ml-lg-2">House #13(5th Floor),Road #8,</span><br><span class="ml-lg-4">Block # E, Banasree,Rampura,Dhaka-1219</span></p>
+                    <p class="phone"><span class="fa fa-phone"></span> +8801732-671618<br><span class="ml-lg-4">+8801832-764097</span></p>
+                   <!--  <p class="phone"><span class="fa fa-fax"></span>  </p> -->
+                    <p><span class="fa fa-envelope"></span><a href="mailto:datam5555@gmail.com">datam5555@gmail.com</a></p>
                 </div>
 
             </div>
