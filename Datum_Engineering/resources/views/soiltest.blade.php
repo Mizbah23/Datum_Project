@@ -136,7 +136,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/soil4.jpg" alt="construction building photo" class="img-fluid"></a>
+                    <a href="#"><img src="images/soil3.jpg" alt="construction building photo" class="img-fluid"></a>
                     <div class="gal-info">
                      
                     </div>
