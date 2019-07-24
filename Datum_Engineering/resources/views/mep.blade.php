@@ -103,7 +103,7 @@
         <div class="container py-md-5">
             <div class="row inner_sec_info">
 
-                <div class="col-md-6 banner_bottom_grid help">
+                <diqv class="col-md-6 banner_bottom_grid help">
                     <img src="images/mep1.jpg" alt="" height="700" width="400" class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
@@ -137,7 +137,7 @@
                 </div>
                 <div class="col-md-6 banner_bottom_left">
 
-                            <ul class="title-hny mb-3">Plumbing systems might be used for:
+                            <ul class="title-hny mb-3">Heating ventilation and air conditioning can be used in building to:
                               <div class="ml-md-4">
                                 <li>Heating and cooling.</li>
                                 <li>Waste removal.</li>
