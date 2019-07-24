@@ -104,7 +104,7 @@
             <div class="row inner_sec_info">
 
                 <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/arc.jpg" alt=" " class="img-fluid">
+                    <img src="images/cons1.jpg" alt=" " class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
                     <h4><a class="link-hny" href="services.html">
