@@ -9,7 +9,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html lang="zxx">
 
 <head>
-    <title>Infinitude Corporate Category Bootstrap Responsive Web Template | Team Page :: W3layouts</title>
+    <title>Team</title>
     <!-- Meta tag Keywords -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8" />
@@ -47,7 +47,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                            <h1> <a class="navbar-brand px-0 mx-0" href="index.html">Datum
+                           <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg">
                                 </a>
                             </h1>
                         </div>
@@ -55,8 +55,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                         <label for="drop" class="toggle">Menu</label>
                         <input type="checkbox" id="drop" />
                         <ul class="menu mr-auto">
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About</a></li>
+                            <li><a href="{{route('home')}}">Home</a></li>
+                            <li><a href="{{route('about')}}">About</a></li>
                             <li>
                                 <!-- First Tier Drop Down -->
                                 <label for="drop-2" class="toggle toggle-2">Business <span class="fa fa-angle-down" aria-hidden="true"></span> </label>
@@ -64,12 +64,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
 
-                                    <li><a href="{{route('services')}}" class="drop-text">Services</a></li>
-                                    <li><a href="timeline.html" class="drop-text">Timeline</a></li>
-                                    <li class="active"><a href="team.html" class="drop-text">Team</a></li>
-                                    <li><a href="typo.html" class="drop-text">Typography</a></li>
-                                    <li><a href="error.html" class="drop-text">Faq's</a></li>
-                                    <li><a href="error.html" class="drop-text">Social Media</a></li>
+                                    <li><a href="{{route('services')}}" class="drop-text">DESIGN</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">CONSTRUCTION</a></li>
+                                    <li class="active"><a href="{{route('developing')}}" class="drop-text">Developing</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">survey/gis</a></li>
+                                    <li><a href="{{route('soiltest')}}" class="drop-text">soil testing & investing</a></li>
+                                    <li><a href="{{route('mep')}}" class="drop-text"> Mep</a></li>
                                 </ul>
                             </li>
                             <li><a href="index.html">Projects</a></li>
@@ -127,7 +127,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
-                        </div>-->
+                        </div>
                     </div>
                 </div>
 
