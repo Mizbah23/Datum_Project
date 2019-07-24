@@ -103,8 +103,8 @@
         <div class="container py-md-5">
             <div class="row inner_sec_info">
 
-                <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/soiltesting.jpg" alt="" height="700" width="400" class="img-fluid">
+                <diqv class="col-md-6 banner_bottom_grid help">
+                    <img src="images/mep1.jpg" alt="" height="700" width="400" class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
                     <h4><a class="link-hny" href="#">
@@ -113,27 +113,172 @@
                     <p>Typically designed by specialized  consultants and contractors, MEP systems can present complex challenges in terms of coordination and detailing. They must satisfy multiple objectives and criteria for design, installation, commissiming, operation and maintenance.
                     </p>
                     </div>
-                    <div class="col about-info">
-                            <h4 class="title-hny mb-3">Mechanical</h4>
-                            <p>Datum Engineering Ltd. delivers state-of-the-art design, installation and support to meet all your electrical needs. We serve the commercial, industrial and public sector industries. We are committed to implementing the latest technologies and industry practices to provide our clients with the solutions needed for success in today’s marketplace.</p>
+                </div>
+                   </div>
+                    
+                     </div>
+               
+           
                         
-                        
+
+            </div>
+        </div>
+    </section>
+            <section class="banner_bottom py-5">
+        <div class="container py-md-5">
+            <div class="row inner_sec_info">
+                <div class="col-md-12 banner_bottom_left">
+                    <h4><a class="link-hny" href="#">
+                          Mechanical</a></h4>
+                </div>
+                <div class="col-md-12 banner_bottom_left">
+                    <p>Mechanical systems most commonly relate to heating ventilation and systems, but they can also relate to transportation systems such a lift and escalators, elements of infrastructure, industrial plant and machinery, and so on.</p>
+                    
+                </div>
+                <div class="col-md-6 banner_bottom_left">
+
                             <ul class="title-hny mb-3">Heating ventilation and air conditioning can be used in building to:
                               <div class="ml-md-4">
-                                <li>Maintain internal air quality.</li>
-                                <li>Regulate internal temperatures.</li>
-                                <li>Regulate internal humidity.</li>
-  
+                                <li>Heating and cooling.</li>
+                                <li>Waste removal.</li>
+                                <li>Potable cold and hot water supply. </li>
+                                <li>Water recovery and treatment systems.</li>
+                                <li>Rainwater, surface and subsurface water drainage .</li>
+                                <li>Fuel gas piping.</li>
                               </div>
-                                
                             </ul>
+                </div>
+                                <div class="col-md-6 banner_bottom_left">
+
+                            <ul class="title-hny mb-3">For more information see:
+                              <div class="ml-md-4">
+                                <li>Building heating system.</li>
+                                <li>Cooling systems for buildings.</li>
+                                <li>Grey water recycling.</li>
+                              </div>
+                            </ul>
+                </div>
+
                     <div class="row news-grids mt-md-5 mt-4 text-center">
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
+                    <a href="#"><img src="images/elc1.jpg" alt=""class="img-fluid"></a>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
-                   
+                    <a href="#"><img src="images/elc2.jpg" class="img-fluid"></a>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/elc3.jpg" alt=""class="img-fluid"></a>
+                </div>
+                   </div>
+                    
+                     </div>
+               
+           
+                        
+
+            </div>
+        </div>
+    </section>
+    <section class="banner_bottom py-5">
+        <div class="container py-md-5">
+            <div class="row inner_sec_info">
+                <div class="col-md-12 banner_bottom_left">
+                    <h4><a class="link-hny" href="#">
+                          Electrical</a></h4>
+                </div>
+                <div class="col-md-6 banner_bottom_left">
+
+                            <ul class="title-hny mb-3">Electrical systems might include:
+                              <div class="ml-md-4">
+                                <li>Power supply and distribution.</li>
+                                <li>Information and telecommunications systems.</li>
+                                <li>Control systems.</li>
+                                <li>Security and access systems.</li>
+                                <li>Detection and alarm systems.</li>
+                                <li>Interior and exterior lighting.</li>
+                              </div>
+                            </ul>
+                </div>
+                                <div class="col-md-6 banner_bottom_left">
+
+                            <ul class="title-hny mb-3">For more information see:
+                              <div class="ml-md-4">
+                                <li>Building management systems (BMS).</li>
+                                <li>Building automation and control system (BACS).</li>
+                                <li>Fire detection and alarm system.</li>
+                                <li>Access control in buildings.</li>
+                                <li>CCTV.</li>
+                                <li>Mechanical and Electrical.</li>
+                                <li>Electrical engineering.</li>
+                              </div>
+                            </ul>
+                </div>
+                <div class="col-md-12 banner_bottom_left">
+                    <p>Clearly there is a great deal of overlap between mechanical and electrical systems, with many systems including both mechanical electrical components, hence the term M&E (mechanical and electrical).</p>
+                </div>
+                    <div class="row news-grids mt-md-5 mt-4 text-center">
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/circuit1.jpg" alt=""class="img-fluid"></a>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/circuits2.jpg" class="img-fluid"></a>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/circuits3.jpg" alt=""class="img-fluid"></a>
+                </div>
+                   </div>
+                    
+                     </div>
+               
+           
+                        
+
+            </div>
+        </div>
+    </section>
+        <section class="banner_bottom py-5">
+        <div class="container py-md-5">
+            <div class="row inner_sec_info">
+                <div class="col-md-12 banner_bottom_left">
+                    <h4><a class="link-hny" href="#">
+                          Plumbing</a></h4>
+                </div>
+                <div class="col-md-12 banner_bottom_left">
+                    <p>Plumbing refers to any system that allows the movement of fluids, typically involving pipes,valves,plumbing,fixtures,tanks and other apparatus.</p>
+                </div>
+                <div class="col-md-6 banner_bottom_left">
+
+                            <ul class="title-hny mb-3">Plumbing systems might be used for:
+                              <div class="ml-md-4">
+                                <li>Heating and cooling.</li>
+                                <li>Waste removal.</li>
+                                <li>Potable cold and hot water supply. </li>
+                                <li>Water recovery and treatment systems.</li>
+                                <li>Rainwater, surface and subsurface water drainage .</li>
+                                <li>Fuel gas piping.</li>
+                              </div>
+                            </ul>
+                </div>
+                                <div class="col-md-6 banner_bottom_left">
+
+                            <ul class="title-hny mb-3">For more information see:
+                              <div class="ml-md-4">
+                                <li>Building heating system.</li>
+                                <li>Cooling systems for buildings.</li>
+                                <li>Grey water recycling.</li>
+                              </div>
+                            </ul>
+                </div>
+
+                    <div class="row news-grids mt-md-5 mt-4 text-center">
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/plumbing1.jpg" alt=""class="img-fluid"></a>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/plumbing2.jpg" class="img-fluid"></a>
+                </div>
+                <div class="col-md-4 gal-img">
+                    <a href="#"><img src="images/plumbing3.jpg" alt=""class="img-fluid"></a>
                 </div>
                    </div>
                     

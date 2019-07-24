@@ -104,7 +104,7 @@
             <div class="row inner_sec_info">
 
                 <div class="col-md-6 banner_bottom_grid help">
-                    <img src="images/arc.jpg" alt=" " class="img-fluid">
+                    <img src="images/dev1.jpg" alt=" " class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
                     <h4><a class="link-hny" href="services.html">
@@ -127,19 +127,19 @@
             <h3 class="tittle-w3ls text-left mb-5"><span class="pink">Photo</span> Gallery</h3>
             <div class="row news-grids mt-md-5 mt-4 text-center">
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
+                    <a href="#"><img src="images/dev2.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
                        
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#"><img src="images/dev3.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                       
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/build7.jpg" alt="construction building photo" class="img-fluid"></a>
+                    <a href="#"><img src="images/dev4.jpg" alt="construction building photo" class="img-fluid"></a>
                     <div class="gal-info">
                      
                     </div>

@@ -110,10 +110,6 @@
                     <h4><a class="link-hny" href="services.html">
                            We know the value of your soil</a></h4>
                     <p>Datum Engineering Ltd (DEL) is a leading service provider of Geotechnical sevices and foundation engineering. We are specialist in the provision of high quality soil testing Services, Geotechnical and Geo-environmental Ground Investigation and associated professional services to the civil engineering, construction, housing, environmental management.  </p>
-                    <p>Datum Engineering Ltd (DEL) is a leading service provider of Geotechnical sevices and foundation engineering. We are specialist in the provision of high quality soil testing Services, Geotechnical and Geo-environmental Ground Investigation and associated professional services to the civil engineering, construction, housing, environmental management.  </p>
-                    
-                    
-
                 </div>
             </div>
            
@@ -128,19 +124,19 @@
             <h3 class="tittle-w3ls text-left mb-5"><span class="pink">Photo</span> Gallery</h3>
             <div class="row news-grids mt-md-5 mt-4 text-center">
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/buildcons.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
+                    <a href="#"><img src="images/soil1.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
                        
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/cons.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#"><img src="images/soil2.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                       
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#"><img src="images/build7.jpg" alt="construction building photo" class="img-fluid"></a>
+                    <a href="#"><img src="images/soil3.jpg" alt="construction building photo" class="img-fluid"></a>
                     <div class="gal-info">
                      
                     </div>
