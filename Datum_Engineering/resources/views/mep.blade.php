@@ -109,7 +109,7 @@
                 <div class="col-md-6 banner_bottom_left">
                     <h4><a class="link-hny" href="#">
                           We do stunning MEP work</a></h4>
-                    <p>Mechanical, electrical and plumbing (MEP) systems are an important part of building services and can have many different function.<p>
+                    <p>Mechanical, electrical and plumbing (MEP) systems are an important part of building services and can have many different function. <p>
                     <p>Typically designed by specialized  consultants and contractors, MEP systems can present complex challenges in terms of coordination and detailing. They must satisfy multiple objectives and criteria for design, installation, commissiming, operation and maintenance.
                     </p>
                     </div>
