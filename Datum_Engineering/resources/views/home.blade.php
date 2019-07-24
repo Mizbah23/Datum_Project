@@ -66,7 +66,7 @@
                                 </ul>
                         </li>
                         <li><a href="#gallery">Projects</a></li>
-                        <li><a href="{{route('contact')}}">Home</a></li>
+                        <li><a href="{{route('contact')}}">Contact</a></li>
 
                         <li class="social-icons ml-lg-3"><a href="https://www.facebook.com/Datum55/" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                 <div class="tooltip">Facebook</div>
