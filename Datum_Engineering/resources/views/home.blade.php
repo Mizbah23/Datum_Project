@@ -57,10 +57,10 @@
                             <a href="{{route('services')}}">Business<span class="fa fa-angle-down" aria-hidden="true"></span></a>
                             <input type="checkbox" id="drop-2" />
                                 <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS</a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>

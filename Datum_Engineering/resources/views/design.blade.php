@@ -58,10 +58,10 @@
                                 <a href="{{route('services')}}">Business<span class="fa fa-angle-down" aria-hidden="true"></span></a>
                                 <input type="checkbox" id="drop-2" />
                                 <ul>
-                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design Division</a></li>
-                                    <li><a href="{{route('construction')}}" class="drop-text">Construction Division</a></li>
-                                    <li><a href="{{route('developing')}}" class="drop-text">Developing Division</a></li>
-                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS Division</a></li>
+                                    <li class="active"><a href="{{route('services')}}" class="drop-text">Design</a></li>
+                                    <li><a href="{{route('construction')}}" class="drop-text">Construction</a></li>
+                                    <li><a href="{{route('developing')}}" class="drop-text">Developing</a></li>
+                                    <li><a href="{{route('survey')}}" class="drop-text">Survey/GIS</a></li>
                                     <li><a href="{{route('soiltest')}}" class="drop-text">Soil testing & Investigation</a></li>
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
@@ -69,10 +69,10 @@
                             <li><a href="index.html">Projects</a></li>
                             <li><a href="contact.html">Contact</a></li>
 
-                             <li class="social-icons ml-lg-3"><a href="https://www.facebook.com/Datum55/" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
-                                <div class="tooltip">Facebook</div>
-                            </a> </li>
-                        <li class="social-icons"><a href="mailto:datam5555@gmail.com" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
+                            <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
+                                    <div class="tooltip">Facebook</div>
+                                </a> </li>
+                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
                                 <div class="tooltip">Google</div>
                             </a> </li>
                         </ul>
@@ -253,31 +253,30 @@
     <!-- //single -->
 
     <!-- footer -->
-   <!-- footer -->
     <footer class="py-lg-5 py-4">
         <div class="container py-sm-3">
             <div class="row footer-grids">
                 <div class="col-lg-4 mt-4">
 
-                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum Engineering Ltd.
+                    <h2> <a class="navbar-brand px-0 mx-0 mb-4" href="{{route('home')}}">Datum
                         </a>
                     </h2>
                     <p class="mb-3">DEL has been providing services to the government, private and international organizations. DEL offers a full range of services starting from project conception right up to completion.</p>
                     <h5>Trusted by <span>500+ People</span> </h5>
                     <div class="icon-social mt-4">
-                        <a href="https://www.facebook.com/Datum55/" class="button-footr">
+                        <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-facebook"></span>
                         </a>
-                        <a href="mailto:datam5555@gmail.com" class="button-footr">
+                        <a href="#" class="button-footr">
                             <span class="fa mx-2 fa-google-plus"></span>
                         </a>
 
                     </div>
                 </div>
                 <div class="col-lg-4 mt-4">
-                  <!--  <h4 class="mb-4">Quick Links</h4>-->
+              <!--  <h4 class="mb-4">Quick Links</h4>-->
                     <div class="links-wthree d-flex">
-                     <!--   <ul class="list-info-wthree">
+                      <!--  <ul class="list-info-wthree">
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Online Websites</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Free Application</a></li>
                             <li><a href="#"><span class="fa fa-angle-double-right" aria-hidden="true"></span> Support Helpline</a></li>
@@ -298,17 +297,12 @@
                             </li>
                             <li>
                                 <a href="{{route('single')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                                    Details
+                                    Single Page
                                 </a>
                             </li>
                             <li>
-                                <a href="{{route('team')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
+                                <a href="team.html"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
                                     Team
-                                </a>
-                            </li>
-                              <li>
-                                <a href="{{route('career')}}"><span class="fa fa-angle-double-right" aria-hidden="true"></span>
-                                    Career
                                 </a>
                             </li>
                             <li>
@@ -321,10 +315,11 @@
                 </div>
                 <div class="col-lg-4 mt-4 ad-info">
                     <h4 class="mb-4">Contact Info</h4>
-                    <p><span class="fa fa-map-marker"></span><span class="ml-lg-2">House #13(5th Floor),Road #8,</span><br><span class="ml-lg-4">Block # E, Banasree,Rampura,Dhaka-1219</span></p>
-                    <p class="phone"><span class="fa fa-phone"></span> +8801732-671618<br><span class="ml-lg-4">+8801832-764097</span></p>
-                   <!--  <p class="phone"><span class="fa fa-fax"></span>  </p> -->
-                    <p><span class="fa fa-envelope"></span><a href="mailto:datam5555@gmail.com">datam5555@gmail.com</a></p>
+                    <p><span class="fa fa-map-marker"></span>90 nsequursu dsdesdc,
+                        xxx Honey Street 049436.<span>Newyork, NY.</span></p>
+                    <p class="phone"><span class="fa fa-phone"></span> +1(12) 123 456 789 </p>
+                    <p class="phone"><span class="fa fa-fax"></span> +1(12) 123 456 789 </p>
+                    <p><span class="fa fa-envelope"></span><a href="mailto:info@example.com">info@example.com</a></p>
                 </div>
 
             </div>
@@ -336,8 +331,9 @@
         <div class="container">
             <div class="row d-flex">
                 <div class="col-lg-9 copy_w3pvt">
-                    <p class="text-lg-left text-center">© 2019 Datum Engineering Ltd. All rights reserved | Design by
-                        <a href="http://www.deshisysltd.com//" target="_blank">Deshi Systems Limited</a></p>
+             <div class="col-lg-9 copy_w3pvt">
+                    <p class="text-lg-left text-center">© 2019 Infinitude. All rights reserved | Design by
+                        <a href="http://w3layouts.com/" target="_blank">W3layouts</a></p>
 
                 </div>
                 <!-- move top -->
