@@ -103,7 +103,7 @@
         <div class="container py-md-5">
             <div class="row inner_sec_info">
 
-                <diqv class="col-md-6 banner_bottom_grid help">
+                <div class="col-md-6 banner_bottom_grid help">
                     <img src="images/mep1.jpg" alt="" height="700" width="400" class="img-fluid">
                 </div>
                 <div class="col-md-6 banner_bottom_left">
