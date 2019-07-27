@@ -116,26 +116,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 <div class="px-lg-5">
                     <h3 class="tittle-w3ls mb-lg-5 mb-4"><span class="pink">Contact</span> Us</h3>
                     <div id="map">
-                        
+                        <p>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7303.1948716973375!2d90.42758127293538!3d23.76173080770367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b875570ee829%3A0x61e81573e8a1a986!2sRed+Chilli+Chinese+Restaurant+%26+Party+Center!5e0!3m2!1sen!2sbd!4v1564253099540!5m2!1sen!2sbd" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        </p>
                     </div>
-                    <script>
-                        function initMap(){
-                            var location= {lat: 23.81671888569728, lng: 90.41987697353845};
-                            var map= new google.maps.Map(document.getElementById("map"),{
-                                zoom: 4,
-                                center: location
-                            });
-                            var marker= new goole.maps.Marker({
-                                position: location,
-                                map: map
-                            });
-                        }
-                        
-                    </script>
-                    <script async defer src="https://maps.googleapis.com/maps/api/js?key=188d5d762dmsh7c0cd8bcb0e0268p1a7c72jsne66b00dee1ee&callback=initMap"> 
-                    
-                    </script>
-                  
     <!--
                     <div class="contact-hny-form mt-lg-5 mt-3">
                         <h3 class="title-hny mb-lg-5 mb-3">
@@ -303,6 +287,26 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 
     </div>
     <!-- //copyright -->
+
+
+   <!--  <script>
+        function initMap(){
+            var location= {lat: 23.81671888569728, lng: 90.41987697353845};
+            var map= new google.maps.Map(document.getElementById("map"),{
+                zoom: 4,
+                center: location
+            });
+            var marker= new goole.maps.Marker({
+                position: location,
+                map: map
+            });
+        }
+        
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKcjSwDT823zUSb8SWnstC4TnD-4QBz3g&v=3.exp&callback=initMap"> 
+    </script> -->
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCKcjSwDT823zUSb8SWnstC4TnD-4QBz3g&v=3.exp&libraries=places"></script> -->
+
 </body>
 
 </html>
