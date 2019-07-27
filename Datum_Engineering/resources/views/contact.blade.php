@@ -24,6 +24,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
         }
 
     </script>
+    <style>
+        #map{
+            height: 500px;
+            width: 100%;
+        }
+    </style>
     <!-- //Meta tag Keywords -->
     <!-- Custom-Files -->
     <link rel="stylesheet" href="css/bootstrap.css">
@@ -109,7 +115,26 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="container py-md-5 py-3">
                 <div class="px-lg-5">
                     <h3 class="tittle-w3ls mb-lg-5 mb-4"><span class="pink">Contact</span> Us</h3>
-                    <p class="mt-5 pr-lg-5">Accumsan orci faucibus id eu lorem semper. Eu ac iaculis ac nunc nisi lorem vulputate lorem neque cubilia ac in adipiscing in curae lobortis tortor primis integer massa adipiscing id nisi accumsan pellentesque commodo blandit enim arcu non at amet id arcu magna. Accumsan orci faucibus id eu lorem semper nunc nisi lorem vulputate lorem neque cubilia.</p>
+                    <div id="map">
+                        
+                    </div>
+                    <script>
+                        function initMap(){
+                            var location= {lat: 23.81671888569728, lng: 90.41987697353845};
+                            var map= new google.maps.Map(document.getElementById("map"),{
+                                zoom: 4,
+                                center: location
+                            });
+                            var marker= new goole.maps.Marker({
+                                position: location,
+                                map: map
+                            });
+                        }
+                        
+                    </script>
+                    <script async defer src="https://maps.googleapis.com/maps/api/js?key=188d5d762dmsh7c0cd8bcb0e0268p1a7c72jsne66b00dee1ee&callback=initMap"> 
+                    
+                    </script>
                   
     <!--
                     <div class="contact-hny-form mt-lg-5 mt-3">
