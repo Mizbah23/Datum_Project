@@ -117,7 +117,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <h3 class="tittle-w3ls mb-lg-5 mb-4"><span class="pink">Contact</span> Us</h3>
                     <div id="map">
                         <p>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7303.1948716973375!2d90.42758127293538!3d23.76173080770367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b875570ee829%3A0x61e81573e8a1a986!2sRed+Chilli+Chinese+Restaurant+%26+Party+Center!5e0!3m2!1sen!2sbd!4v1564253099540!5m2!1sen!2sbd" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                          <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d161.59990890102927!2d90.43436746609112!3d23.758520704768078!2m2!1f0!2f44.99991102991478!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x3755b80a4d3c45bd%3A0x3e92c8f7176694d3!2zMjPCsDQ1JzM1LjIiTiA5MMKwMjYnMDMuOSJF!5e1!3m2!1sen!2sbd!4v1564306116962!5m2!1sen!2sbd" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </p>
                     </div>
     <!--
@@ -256,7 +256,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                 </div>
                 <div class="col-lg-4 mt-4 ad-info">
                     <h4 class="mb-4">Contact Info</h4>
-                    <p><span class="fa fa-map-marker"></span><span class="ml-lg-2">House #13(5th Floor),Road #8,</span><br><span class="ml-lg-4">Block # E, Banasree,Rampura,Dhaka-1219</span></p>
+                    <p><span class="fa fa-map-marker"></span><span class="ml-lg-2">House #13(5th Floor),Road #8,
+                    </span><br><span class="ml-lg-4">Block #E,Banasree,Rampura,Dhaka-1219</span></p>
                     <p class="phone"><span class="fa fa-phone"></span> +8801732-671618<br><span class="ml-lg-4">+8801832-764097</span></p>
                    <!--  <p class="phone"><span class="fa fa-fax"></span>  </p> -->
                     <p><span class="fa fa-envelope"></span><a href="mailto:datam5555@gmail.com">datam5555@gmail.com</a></p>
