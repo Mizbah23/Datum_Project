@@ -120,6 +120,10 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                           <iframe src="https://www.google.com/maps/embed?pb=!1m17!1m11!1m3!1d161.59990890102927!2d90.43436746609112!3d23.758520704768078!2m2!1f0!2f44.99991102991478!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x3755b80a4d3c45bd%3A0x3e92c8f7176694d3!2zMjPCsDQ1JzM1LjIiTiA5MMKwMjYnMDMuOSJF!5e1!3m2!1sen!2sbd!4v1564306116962!5m2!1sen!2sbd" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
                         </p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
     <!--
                     <div class="contact-hny-form mt-lg-5 mt-3">
                         <h3 class="title-hny mb-lg-5 mb-3">

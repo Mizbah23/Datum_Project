@@ -68,7 +68,7 @@
                                 </ul>
                             </li>
                             <li><a href="{{route('home')}}">Projects</a></li>
-                            <li><a href="#">Contact</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                              <li class="social-icons ml-lg-3"><a href="https://www.facebook.com/Datum55/" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                 <div class="tooltip">Facebook</div>
@@ -110,7 +110,7 @@
                             Great Modern Design and Unique Features</a></h4>
                     <p>We have an experienced team to visualize your dream in graphics with creative design and innovative thinking. Our design studio covers Architecture, Interiors, Graphics, and Landscaping. We are energetic and passionate about our work and committed to create a sustainable and beautiful spaces for clients far exceeding their expectations.</p>
                   
-                    <a class="btn more black mt-3" href="{{route('services')}}" role="button">Services Info</a>
+                    <a class="btn more black mt-3" href="{{route('single')}}" role="button">Services Info</a>
 
                 </div>
             </div>
