@@ -66,14 +66,15 @@
                                     <li><a href="{{route('mep')}}" class="drop-text">MEP</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index.html">Projects</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('home')}}">Projects</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
-                            <li class="social-icons ml-lg-3"><a href="#" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
-                                    <div class="tooltip">Facebook</div>
-                                </a> </li>
-                        <li class="social-icons"><a href="#" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
+                              <li class="social-icons ml-lg-3"><a href="https://www.facebook.com/Datum55/" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
+                                <div class="tooltip">Facebook</div>
+                            </a> </li>
+                        <li class="social-icons"><a href="mailto:datam5555@gmail.com" class="p-0 social-icon"><span class="fa fa-google-plus" aria-hidden="true"></span>
                                 <div class="tooltip">Google</div>
+                            </a> </li>
                             </a> </li>
                         </ul>
                     </nav>
