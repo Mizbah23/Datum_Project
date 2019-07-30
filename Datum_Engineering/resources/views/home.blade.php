@@ -257,7 +257,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal9"><img src="images/g9.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal9"><img src="images/bmosque.jpg" alt="image of mosque" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -344,7 +344,7 @@
             <!-- popup-->
             <div id="gal9" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/g9.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/bmosque.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>s
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
