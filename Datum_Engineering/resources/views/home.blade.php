@@ -257,7 +257,7 @@
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal9"><img src="images/bmosque.jpg" alt="image of mosque" class="img-fluid"></a>
+                    <a href="#gal9"><img src="images/bancha_mosque.jpg" alt="image of mosque" height="600" width="400" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
