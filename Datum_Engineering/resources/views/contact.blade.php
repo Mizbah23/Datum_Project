@@ -277,7 +277,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
             <div class="row d-flex">
                 <div class="col-lg-9 copy_w3pvt">
                     <p class="text-lg-left text-center">© 2019 Datum Engineering Ltd. All rights reserved | Design by
-                        <a href="http://www.deshisysltd.com//" target="_blank">Deshi Systems Limited</a></p>
+                        <a href="http://www.deshisysltd.com//" target="_blank"> Deshi Systems Limited</a></p>
 
                 </div>
                 <!-- move top -->
