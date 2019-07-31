@@ -210,11 +210,11 @@
                 <div class="col-md-4 gal-img">
                     <a href="#gal1"><img src="images/g10.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Mosque Project<span class="decription">Upazila Parished Mowla Ali Kendrio Jam-e-Mosque</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal2"><img src="images/g11.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal2"><img src="images/rsz_mosque_3.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -233,13 +233,13 @@
                 </div>
 
                 <div class="col-md-4 gal-img">
-                    <a href="#gal5"><img src="images/rsz_build7.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal5"><img src="images/rsz_fb_img_1563459268545.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal6"><img src="images/rsz_cons.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal6"><img src="images/rsz_20190729_195703.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -251,13 +251,13 @@
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal8"><img src="images/rsz_lb4.jpg" alt="w3pvt" class="img-fluid"></a>
+                    <a href="#gal8"><img src="images/rsz_111.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
-                    <a href="#gal9"><img src="images/bancha_mosque.jpg" alt="image of mosque" height="600" width="400" class="img-fluid"></a>
+                    <a href="#gal9"><img src="images/rsz_t_2_.jpg" alt="image of mosque"  class="img-fluid"></a>
                     <div class="gal-info">
                         <h5>View Project<span class="decription">Website</span></h5>
                     </div>
@@ -268,7 +268,7 @@
             <div id="gal1" class="pop-overlay">
                 <div class="popup">
                     <img src="images/g10.jpg" alt="Popup Image"  class="img-fluid" />
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location: Bancharampur.<br>Consider floor live load: Four storied mosque</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -276,7 +276,7 @@
             <!-- popup-->
             <div id="gal2" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/g11.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/rsz_mosque_3.jpg" alt="Popup Image" class="img-fluid" />
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
@@ -304,7 +304,7 @@
             <!-- popup-->
             <div id="gal5" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/rsz_4.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/rsz_fb_img_1563459268545.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
@@ -314,7 +314,7 @@
             <!-- popup-->
             <div id="gal6" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/rsz_cons.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/rsz_20190729_195703.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
                     <p>Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
@@ -325,7 +325,7 @@
             <div id="gal7" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_banner.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5 class="mt-3">View Project</h5>
+                    <h5 class="mt-3">Mosque Project</h5>
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
@@ -334,7 +334,7 @@
             <!-- popup-->
             <div id="gal8" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/rsz_lb4.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/rsz_111.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
@@ -344,7 +344,7 @@
             <!-- popup-->
             <div id="gal9" class="pop-overlay">
                 <div class="popup">
-                    <img src="images/bmosque.jpg" alt="Popup Image" class="img-fluid" />
+                    <img src="images/rsz_t_2_.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>s
                     <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
                     <a class="close" href="#gallery">&times;</a>
