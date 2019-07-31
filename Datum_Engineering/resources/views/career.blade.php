@@ -108,7 +108,7 @@
         </div>
     </div>
         <section class="banner_bottom py-5" >
-        <center>Feel free to send CV <a href="mailto:datum5555@gmail.com">datum5555@gmail.com</a> here or at <a href="http://bdjobs.com/" target="_blank">BDjobs</a></center>
+        <center>Feel free to send CV <a href="mailto:datum5555@gmail.com">datum5555@gmail.com </a> here or at <a href="http://bdjobs.com/" target="_blank">BDjobs</a></center>
     <!-- //about -->
     <!--/ab-->
 
