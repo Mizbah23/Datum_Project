@@ -65,8 +65,8 @@
                                     <li><a href="{{route('mep')}}" class="drop-text"> Mep</a></li>
                                 </ul>
                             </li>
-                            <li><a href="index.html">Projects</a></li>
-                            <li><a href="contact.html">Contact</a></li>
+                            <li><a href="{{route('home')}}">Projects</a></li>
+                            <li><a href="{{route('contact')}}">Contact</a></li>
 
                              <li class="social-icons ml-lg-3"><a href="https://www.facebook.com/Datum55/" class="p-0 social-icon"><span class="fa fa-facebook-official" aria-hidden="true"></span>
                                 <div class="tooltip">Facebook</div>
@@ -212,7 +212,7 @@
                     <div class="team-info">
                     
                         <h3><a href="team.html"> Engr. Taif Mahmud </a></h3>
-                        <p>B.sc in Civil Engineering.s</p>
+                        <p>B.sc in Civil Engineering.</p>
                         <div class="icon-social team mt-4">
                             
                             <a href="#" class="button-footr">
