@@ -100,7 +100,7 @@
     <!--/team -->
     <section class="about py-5">
         <div class="container p-md-5">
-            <h3 class="tittle-w3ls text-center">Our Exclusive Team
+            <h3 class="tittle-w3ls text-center">Board Of Derector
             </h3><hr>
 
             <div class="row mt-lg-5 mt-4">

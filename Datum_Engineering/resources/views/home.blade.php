@@ -367,7 +367,7 @@
                 <div class="row my-4">
                     <div class="col-lg-4 testimonials_grid mt-3">
                         <div class="p-lg-5 p-4 testimonials-gd-vj">
-                            <p class="sub-test"><span class="fa fa-quote-left s4" aria-hidden="true"></span> Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod possimus, omnis voluptas.
+                            <p class="sub-test"><span class="fa fa-quote-left s4" aria-hidden="true"></span>Our testimonial is in incomplete position,it should be complete in right time.
                             </p>
                             <div class="row mt-4">
                                 <div class="col-3 testi-img-res">
