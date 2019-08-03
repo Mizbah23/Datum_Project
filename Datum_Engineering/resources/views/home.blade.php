@@ -216,13 +216,13 @@
                 <div class="col-md-4 gal-img">
                     <a href="#gal2"><img src="images/rsz_mosque_3.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Mosque Project<span class="decription">Ujanchar launch ghat Jam-A-Mosque.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal3"><img src="images/rsz_101.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Mosque Project<span class="decription">Ujanchar launch ghat Jam-A-Mosque.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
