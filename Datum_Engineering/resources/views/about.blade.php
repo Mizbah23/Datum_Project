@@ -137,7 +137,7 @@
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/jony bai 2.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/jony bai 2.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Chairman</span>
@@ -155,7 +155,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/babul_bhai.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/babul_bhai.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Managing Director</span>
@@ -172,7 +172,7 @@
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/polashvai.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/polashvai.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">GM Admin</span>

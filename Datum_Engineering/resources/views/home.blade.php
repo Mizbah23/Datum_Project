@@ -360,61 +360,7 @@
 
     <!--/services-->
  
-    <section class="testmonials" id="test">
-        <div class="over-lay-blue py-5">
-            <div class="container py-md-5">
-                <h3 class="tittle-w3ls two text-center mb-5">Our Testimonials</h3>
-                <div class="row my-4">
-                    <div class="col-lg-4 testimonials_grid mt-3">
-                        <div class="p-lg-5 p-4 testimonials-gd-vj">
-                            <p class="sub-test"><span class="fa fa-quote-left s4" aria-hidden="true"></span>Our testimonial is in incomplete position,it should be complete in right time.
-                            </p>
-                            <div class="row mt-4">
-                                <div class="col-3 testi-img-res">
-                                    <img src="images/t1.jpg" alt=" " class="img-fluid">
-                                </div>
-                                <div class="col-9 testi_grid">
-                                    <h5 class="mb-2">Thomas Carl</h5>
-                                    <p>Add xxxx</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 testimonials_grid mt-3">
-                        <div class="p-lg-5 p-4 testimonials-gd-vj">
-                            <p class="sub-test"><span class="fa fa-quote-left s4" aria-hidden="true"></span>Quisque sagittis lacus eu lorem , cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod possimus.
-                            </p>
-                            <div class="row mt-4">
-                                <div class="col-3 testi-img-res">
-                                    <img src="images/t2.jpg" alt=" " class="img-fluid">
-                                </div>
-                                <div class="col-9 testi_grid">
-                                    <h5 class="mb-2">Adam Ster</h5>
-                                    <p>Add xxxx</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 testimonials_grid mt-3">
-                        <div class="p-lg-5 p-4 testimonials-gd-vj">
-                            <p class="sub-test"><span class="fa fa-quote-left s4" aria-hidden="true"></span> Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod possimus, omnis voluptas.
-                            </p>
-                            <div class="row mt-4">
-                                <div class="col-3 testi-img-res">
-                                    <img src="images/t1.jpg" alt=" " class="img-fluid">
-                                </div>
-                                <div class="col-9 testi_grid">
-                                    <h5 class="mb-2">Dane Walker</h5>
-                                    <p>Add xxxx</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-    <!--//testimonials-->
+   
 
 
 
