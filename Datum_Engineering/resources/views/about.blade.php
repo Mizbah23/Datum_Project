@@ -129,25 +129,22 @@
             </div>
            
     </section>
-    <!--//ab-->
 
     <!--/mid-->
     <section class="team py-5" id="appointment">
         <div class="container py-md-5">
-            <h3 class="tittle-w3ls mb-5 text-center">Our Team</h3>
+            <h3 class="tittle-w3ls mb-5 text-center">Our Management Team</h3>
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
                         <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="team.html"> Jason Donoghue</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <span class="sub-tittle-team">Chairman</span>
+                        <h3><a href="team.html">Zadeed Al Rahman</a></h3>
+                        <p>Masters in English,Jahangirnagar University.</p>
                         <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
+                            
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
@@ -161,13 +158,11 @@
                         <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="team.html"> Mariana Noe</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <span class="sub-tittle-team">Managing Director</span>
+                        <h3><a href="team.html"> Engr. Md. Babul Mia</a></h3>
+                        <p>Lt. ( Dtn) , BN.<br>MIEB-37815.<br>BSc in (Civil),CUET.<br>MSc in (Geotechnical),BUET.</p>
                         <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
+                       
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
@@ -180,13 +175,11 @@
                         <a href="team.html"><img src="images/team6.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="team.html"> Daniel Doe</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <span class="sub-tittle-team">GM Admin</span>
+                        <h3><a href="team.html"> Engr. Al Mamun </a></h3>
+                        <p>BSc in Mechanical.<br> West Coast Institute of Management & Tec.</p>
                         <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
+                            
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>

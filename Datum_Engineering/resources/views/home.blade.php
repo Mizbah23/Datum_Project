@@ -210,56 +210,56 @@
                 <div class="col-md-4 gal-img">
                     <a href="#gal1"><img src="images/g10.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Mosque Project<span class="decription">Upazila Parished Mowla Ali Kendrio Jam-e-Mosque</span></h5>
+                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Kendrio Jam-e-Mosque. Banchamarpur, brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal2"><img src="images/rsz_mosque_3.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Mosque Project<span class="decription">Ujanchar launch ghat Jam-A-Mosque.</span></h5>
+                        <h5>Sorishrar char Jam-A-Mosque. <span class="decription">Singel storied Mosque. Sorisherchar,Ujanchar union, Bancharam pur,Brahmanbaria..</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal3"><img src="images/rsz_101.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Mosque Project<span class="decription">Ujanchar launch ghat Jam-A-Mosque.</span></h5>
+                        <h5>Ujanchar launch ghat Jam-A-Mosque.<span class="decription">Single  Storied Mosque. Ujanchar,ujanchar union, Bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal4"><img src="images/rsz_5.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>One storied residential building.   <span class="decription">Bahar char,Manik pur union, Bancharamspur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
 
                 <div class="col-md-4 gal-img">
                     <a href="#gal5"><img src="images/rsz_fb_img_1563459268545.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Ujanchar launch ghat Jam-A-Mosque.<span class="decription">Single  Storied Mosque. Ujanchar,ujanchar union, Bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal6"><img src="images/rsz_20190729_195703.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>two storied residential building.   <span class="decription">Ayubpur, Ayubpur union, Bancharamspur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal7"><img src="images/rsz_banner.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Ujanchar K.M school and  collage.<span class="decription">ujanchar school and collage  , bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal8"><img src="images/rsz_111.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Ujanchar K.M school and  collage.<span class="decription">ujanchar school and collage  , bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal9"><img src="images/rsz_t_2_.jpg" alt="image of mosque"  class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>View Project<span class="decription">Website</span></h5>
+                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Kendrio Jam-e-Mosque. Banchamarpur, brahmanbaria.</span></h5>
                     </div>
                 </div>
 

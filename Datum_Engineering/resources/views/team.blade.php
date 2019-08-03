@@ -104,38 +104,18 @@
             </h3>
 
             <div class="row mt-lg-5 mt-4">
-                <div class="col-md-4 team-gd text-center">
-                    <div class="team-img mb-4">
-                 <a href="single.html"><img src="images/team1.jpg" class="img-fluid" alt="user-image"></a>
-                    </div>
-                    <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="single.html"> Jason Donoghue</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
-                        <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-google-plus"></span>
-                            </a>
-
-                        </div>
-                    </div>
-                </div>
+                <div class="col-md-4"></div>
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
                         <a href="single.html"><img src="images/team2.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="single.html"> Mariana Noe</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <span class="sub-tittle-team">Chairman</span>
+                        <h3><a href="team.html">Zadeed Al Rahman</a></h3>
+                        <p>Masters in English,Jahangirnagar University.</p>
                         <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
+                            
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
@@ -143,39 +123,21 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-4 team-gd text-center">
-                    <div class="team-img mb-4">
-                     <a href="single.html"><img src="images/team3.jpg" class="img-fluid" alt="user-image"></a>
-                    </div>
-                    <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="single.html"> Daniel Doe</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
-                        <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-google-plus"></span>
-                            </a>
+                <div class="col-md-4"></div>
 
-                        </div>
-                    </div>
-                </div>
-            </div>
+
             <div class="row mt-lg-5 mt-4">
+                <div class="col-md-2"></div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
                         <a href="single.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="single.html"> Jason Donoghue</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <span class="sub-tittle-team">Managing Director</span>
+                        <h3><a href="team.html"> Engr. Md. Babul Mia</a></h3>
+                        <p>Lt. ( Dtn) , BN.<br>MIEB-37815.<br>BSc in (Civil),CUET.<br>MSc in (Geotechnical),BUET.</p>
                         <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
-                            </a>
+
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
@@ -189,13 +151,53 @@
                         <a href="single.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="single.html"> Mariana Noe</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                        <span class="sub-tittle-team">GM Admin</span>
+                        <h3><a href="team.html"> Md. Anisur Rahman</a></h3>
+                        <p>MBA, Accounting, National University</p>
                         <div class="icon-social team mt-4">
-                            <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
+                            
+                            <a href="mailto:dslpalash@gmail.com" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
                             </a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-2"></div>
+
+        </div>
+    </section>
+     <section class="team py-5" id="appointment">
+        <div class="container py-md-5">
+            <h3 class="tittle-w3ls mb-5 text-center">Structural Team</h3><br><br>
+            <div class="row mt-lg-5 mt-4">
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        <h3><a href="team.html">Engr. Mostafijur Rahman Khan</a></h3>
+                        <p>Rajuk Reg.No-DMINB/CE-0468.<br>MIEB-30981<br>Str. Structural Engineer.</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        
+                        <h3><a href="team.html">Engr. Shimanta Shaha</a></h3>
+                        <p>MIEB-39414.<br>MIEB-37815.<br>BSc in (Civil),CUET.</p>
+                        <div class="icon-social team mt-4">
+                            
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
@@ -205,16 +207,225 @@
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="single.html"><img src="images/team6.jpg" class="img-fluid" alt="user-image"></a>
+                        <a href="team.html"><img src="images/team6.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
-                        <span class="sub-tittle-team">Designation</span>
-                        <h3><a href="single.html"> Daniel Doe</a></h3>
-                        <p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+                    
+                        <h3><a href="team.html"> Engr. Taif Mahmud </a></h3>
+                        <p>B.sc in Civil Engineering.s</p>
                         <div class="icon-social team mt-4">
+                            
                             <a href="#" class="button-footr">
-                                <span class="fa fa-facebook"></span>
+                                <span class="fa fa-google-plus"></span>
                             </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <section class="team py-5" id="appointment">
+        <div class="container py-md-5">
+            <h3 class="tittle-w3ls mb-5 text-center"> Architecture Team</h3><br><br>
+            <div class="row mt-lg-5 mt-4">
+                <div class="col-md-2"></div>
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        <h3><a href="team.html">Arch. Avi Das</a></h3>
+                        <p>B.sc in Architecture(CUET).</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        
+                        <h3><a href="team.html">Md. Failul Islam</a></h3>
+                        <p>Diploma in Architecture.</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-2"></div>
+            </div>
+
+        </div>
+    </section>
+     <section class="team py-5" id="appointment">
+        <div class="container py-md-5">
+            <h3 class="tittle-w3ls mb-5 text-center">Construction Team</h3><br><br>
+            <div class="row mt-lg-5 mt-4">
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        <span class="sub-tittle-team">Project Director</span>
+                        <h3><a href="team.html">Engr. Sadi Md Zulker Nine</a></h3>
+                        <p>B.sc in civil Engineering(CUET)</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        <span class="sub-tittle-team">Project Manager</span>
+                        <h3><a href="team.html"> Engr.M A  Hasan</a></h3>
+                        <p>B.sc Engg.(Civil)</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team6.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        <span class="sub-tittle-team">Project Engineer</span>
+                        <h3><a href="team.html">Engr. Al Mamun </a></h3>
+                        <p>BSc in Mechanical.<br> West Coast Institute of Management & Tec.</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+        <section class="team py-5" id="appointment">
+        <div class="container py-md-5">
+            <h3 class="tittle-w3ls mb-5 text-center"> MEP Team</h3><br><br>
+            <div class="row mt-lg-5 mt-4">
+                <div class="col-md-2"></div>
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        <h3><a href="team.html">Engr.  Maksur Rahman</a></h3>
+                        <p>B.sc in Mechical (CUET).</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        
+                        <h3><a href="team.html">Engr. Md Sayam</a></h3>
+                        <p>B.sc in Mechical (CUET).</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+               <div class="col-md-2"></div>
+            </div>
+
+        </div>
+    </section>
+
+     <section class="team py-5" id="appointment">
+        <div class="container py-md-5">
+            <h3 class="tittle-w3ls mb-5 text-center">IT Support</h3>
+            <div class="row mt-lg-5 mt-4">
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        
+                        <h3><a href="team.html">Mizbah Uddin Ahmed</a></h3>
+                        <p>BSc in CSE(AIUB)</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-md-4 team-gd second text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        
+                        <h3><a href="team.html"> Md Ashiqur Rahman</a></h3>
+                        <p>BSc in CSE(BIST)</p>
+                        <div class="icon-social team mt-4">
+                            
+                            <a href="#" class="button-footr">
+                                <span class="fa fa-google-plus"></span>
+                            </a>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 team-gd text-center">
+                    <div class="team-img mb-4">
+                        <a href="team.html"><img src="images/team6.jpg" class="img-fluid" alt="user-image"></a>
+                    </div>
+                    <div class="team-info">
+                        
+                        <h3><a href="team.html"> Joton Sutradhar </a></h3>
+                        <p>BSc in CSE(BIST)</p>
+                        <div class="icon-social team mt-4">
+                            
                             <a href="#" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
