@@ -133,11 +133,11 @@
     <!--/mid-->
     <section class="team py-5" id="appointment">
         <div class="container py-md-5">
-            <h3 class="tittle-w3ls mb-5 text-center">Our Management Team</h3>
+            <h3 class="tittle-w3ls mb-2 text-center">Our Management Team</h3><hr>
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/team4.jpg" class="img-fluid" alt="user-image"></a>
+                        <a href="team.html"><img src="images/jony bai 2.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Chairman</span>
@@ -155,7 +155,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/team5.jpg" class="img-fluid" alt="user-image"></a>
+                        <a href="team.html"><img src="images/babul_bhai.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Managing Director</span>
@@ -172,12 +172,12 @@
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/team6.jpg" class="img-fluid" alt="user-image"></a>
+                        <a href="team.html"><img src="images/polashvai.jpg" class="img-fluid" alt="user-image"></a>
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">GM Admin</span>
-                        <h3><a href="team.html"> Engr. Al Mamun </a></h3>
-                        <p>BSc in Mechanical.<br> West Coast Institute of Management & Tec.</p>
+                        <h3><a href="team.html"> Md. Anisur Rahman</a></h3>
+                        <p>MBA, Accounting, National University</p>
                         <div class="icon-social team mt-4">
                             
                             <a href="#" class="button-footr">
