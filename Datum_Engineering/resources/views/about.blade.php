@@ -176,7 +176,7 @@
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">GM Admin</span>
-                        <h3><a href="team.html"> Md. Anisur Rahman</a></h3>
+                        <h3><a href="team.html"> Md. Anisur Rahman</a> </h3>
                         <p>MBA, Accounting, National University</p>
                         <div class="icon-social team mt-4">
                             
