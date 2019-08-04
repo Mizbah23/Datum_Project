@@ -53,7 +53,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
                     <!-- nav -->
                     <nav class="wthree-w3ls">
                         <div id="logo">
-                            <a class="navbar-brand" href=""><img width="150" height= "250" src="/images/datum.jpeg" ></a>
+                            <a class="navbar-brand" href="{{route('home')}}"><img width="150" height= "250" src="/images/datum.jpeg" ></a>
                                 </a>
                             </h1>
                         </div>

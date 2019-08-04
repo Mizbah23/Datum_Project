@@ -178,21 +178,29 @@
                 <div class="col-lg-5 services-innfo pr-5 ml-lg-5">
                    <h3 class="tittle-w3ls two mb-3 text-center"><span class="pink">What</span> We Provide</h3>
                    <div class="diamond-grid ml-lg-5">
-                        <div class="itam"><img src="images/arc2.jpg">
+                        <div class="itam"><a href="{{route('services')}}"><img src="images/arc2.jpg">
                         <div class="txt"><h5>Architectural<br>Solution</h5></div></div>
-                        <div class="itam"><img src="images/struct40.jpg">
+
+                        <div class="itam"><a href="{{route('services')}}"><img src="images/struct40.jpg">
                         <div class="txt"><h5>Structural<br>Design</h5></div></div>
-                        <div class="itam"><img src="images/const1.jpg">
-                        <div class="txt"><h5>Construction</h5></div></div>
-                        <div class="itam"><img src="images/developmet.jpg">
+                        <div class="itam"><a href="{{route('construction')}}">
+                         <img src="images/const1.jpg"></a>
+                         <div class="txt"><h5>Construction</h5></div>
+                        </div>
+
+                        <div class="itam"><a href="{{route('developing')}}"><img src="images/developmet.jpg">
                         <div class="txt"><h5>Developing</h5></div></div>
-                        <div class="itam"><img src="images/project1.jpg">
+
+                        <div class="itam"><a href="{{route('mep')}}"><img src="images/project1.jpg">
                         <div class="txt"><h5>Project<br>Management</h5></div></div>
-                        <div class="itam"><img src="images/6.jpg">
+
+                        <div class="itam"><a href="{{route('mep')}}"><img src="images/6.jpg">
                         <div class="txt"><h5>Electrical &<br> Plumbing</h5></div></div>
-                        <div class="itam"><img src="images/dls.jpg">
+
+                        <div class="itam"><a href="{{route('survey')}}"><img src="images/dls.jpg">
                         <div class="txt"><h5>Digital<br>Survey/GIS</h5></div></div>
-                        <div class="itam"><img src="images/soil3.jpeg">
+
+                        <div class="itam"><a href="{{route('soiltest')}}"><img src="images/soil3.jpeg">
                         <div class="txt"><h5>Soil Test</h5></div></div>
                   </div>
                </div>
@@ -210,13 +218,13 @@
                 <div class="col-md-4 gal-img">
                     <a href="#gal1"><img src="images/g10.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Kendrio Jam-e-Mosque. Banchamarpur, brahmanbaria.</span></h5>
+                        <h5>Upazila Parished Mowla Ali Central Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Central Jam-e-Mosque. Bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal2"><img src="images/rsz_mosque_3.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Sorishrar char Jam-A-Mosque. <span class="decription">Singel storied Mosque. Sorisherchar,Ujanchar union, Bancharam pur,Brahmanbaria..</span></h5>
+                        <h5>Sorishrar char Jam-A-Mosque. <span class="decription">Single storied Mosque. Sorisherchar,Ujanchar union, Bancharampur,Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
@@ -241,25 +249,25 @@
                 <div class="col-md-4 gal-img">
                     <a href="#gal6"><img src="images/rsz_20190729_195703.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>two storied residential building.   <span class="decription">Ayubpur, Ayubpur union, Bancharamspur, Brahmanbaria.</span></h5>
+                        <h5>Two storied residential building.   <span class="decription">Ayubpur, Ayubpur union, Bancharamspur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal7"><img src="images/rsz_banner.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Ujanchar K.M school and  collage.<span class="decription">ujanchar school and collage  , bancharampur, Brahmanbaria.</span></h5>
+                        <h5>Ujanchar K.M school and  collage.<span class="decription">Ujanchar school and collage  , Bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal8"><img src="images/rsz_111.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Ujanchar K.M school and  collage.<span class="decription">ujanchar school and collage  , bancharampur, Brahmanbaria.</span></h5>
+                        <h5>Ujanchar K.M school and  collage.<span class="decription">Ujanchar school and collage  , Bancharampur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal9"><img src="images/rsz_t_2_.jpg" alt="image of mosque"  class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Kendrio Jam-e-Mosque. Banchamarpur, brahmanbaria.</span></h5>
+                        <h5>Upazila Parished Mowla Ali Central Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Central Jam-e-Mosque. Banchamarpur, Brahmanbaria.</span></h5>
                     </div>
                 </div>
 
@@ -277,7 +285,7 @@
             <div id="gal2" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_mosque_3.jpg" alt="Popup Image" class="img-fluid" />
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:Bancharampur.<br>:Single storied Mosque.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -286,7 +294,7 @@
             <div id="gal3" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_101.jpg" alt="Popup Image" class="img-fluid" />
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -296,7 +304,7 @@
                 <div class="popup">
                     <img src="images/rsz_5.jpg" alt="Popup Image" class="img-fluid" />
                     <h5>View Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -306,7 +314,7 @@
                 <div class="popup">
                     <img src="images/rsz_fb_img_1563459268545.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -316,7 +324,7 @@
                 <div class="popup">
                     <img src="images/rsz_20190729_195703.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
-                    <p>Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p>Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -326,7 +334,7 @@
                 <div class="popup">
                     <img src="images/rsz_banner.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">Mosque Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -336,7 +344,7 @@
                 <div class="popup">
                     <img src="images/rsz_111.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -346,7 +354,7 @@
                 <div class="popup">
                     <img src="images/rsz_t_2_.jpg" alt="Popup Image" class="img-fluid" />
                     <h5 class="mt-3">View Project</h5>s
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <p class="mt-4">Location:</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -360,7 +368,7 @@
 
     <!--/services-->
  
-    <section class="testmonials" id="test">
+  <!--  <section class="testmonials" id="test">
         <div class="over-lay-blue py-5">
             <div class="container py-md-5">
                 <h3 class="tittle-w3ls two text-center mb-5">Our Testimonials</h3>
@@ -413,7 +421,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!--//testimonials-->
 
 
