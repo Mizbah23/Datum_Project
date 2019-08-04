@@ -368,6 +368,7 @@
 
     <!--/services-->
  
+<<<<<<< HEAD
   <!--  <section class="testmonials" id="test">
         <div class="over-lay-blue py-5">
             <div class="container py-md-5">
@@ -423,6 +424,9 @@
         </div>
     </section> -->
     <!--//testimonials-->
+=======
+   
+>>>>>>> 10419cbd555d2eceba51f7935302163836f4d927
 
 
 

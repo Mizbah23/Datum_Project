@@ -108,7 +108,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="single.html"><img src="images/jony bai 2.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/jony bai 2.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Chairman</span>
@@ -130,7 +130,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="single.html"><img src="images/babul_bhai.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/babul_bhai.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Managing Director</span>
@@ -148,7 +148,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="single.html"><img src="images/polashvai.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/polashvai.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">GM Admin</span>
@@ -173,7 +173,7 @@
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/Mostafijur.jpg" class="img-fluid" alt="user-image"></a>
+                       <img src="images/Mostafijur.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <h3><a href="team.html">Engr. Mostafijur Rahman Khan</a></h3>
@@ -190,7 +190,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/shimanta.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/shimanta.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         
@@ -207,7 +207,7 @@
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/taif.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/taif.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                     
@@ -234,7 +234,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/avidas.jpg" class="img-fluid" alt="user-image"></a>
+                       <img src="images/avidas.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <h3><a href="team.html">Arch. Avi Das</a></h3>
@@ -251,7 +251,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/failul.jpg" class="img-fluid" alt="user-image"></a>
+                       <img src="images/failul.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         
@@ -277,7 +277,7 @@
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/sadi.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/sadi.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Project Director</span>
@@ -295,7 +295,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/Ma.Hasan_Civil.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/Ma.Hasan_Civil.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Project Manager</span>
@@ -312,7 +312,7 @@
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/almamun.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/almamun.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <span class="sub-tittle-team">Project Engineer</span>
@@ -339,7 +339,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/maksur.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/maksur.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         <h3><a href="team.html">Engr.  Maksur Rahman</a></h3>
@@ -356,7 +356,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/sayem.jpg" class="img-fluid" alt="user-image"></a>
+                        <img src="images/sayem.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         
@@ -383,7 +383,7 @@
             <div class="row mt-lg-5 mt-4">
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/mizbah.jpg" class="img-fluid" alt="user-image"></a>
+                       <img src="images/mizbah.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         
@@ -401,7 +401,7 @@
 
                 <div class="col-md-4 team-gd second text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/ashik.jpg" class="img-fluid" alt="user-image"></a>
+                       <img src="images/ashik.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         
@@ -418,7 +418,7 @@
                 </div>
                 <div class="col-md-4 team-gd text-center">
                     <div class="team-img mb-4">
-                        <a href="team.html"><img src="images/joton.jpg" class="img-fluid" alt="user-image"></a>
+                       <img src="images/joton.jpg" class="img-fluid" alt="user-image">
                     </div>
                     <div class="team-info">
                         
