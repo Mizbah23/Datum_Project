@@ -210,56 +210,56 @@
                 <div class="col-md-4 gal-img">
                     <a href="#gal1"><img src="images/g10.jpg" alt="w3pvt" height="" width="" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Kendrio Jam-e-Mosque. Banchamarpur, brahmanbaria.</span></h5>
+                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.</h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal2"><img src="images/rsz_mosque_3.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Sorishrar char Jam-A-Mosque. <span class="decription">Singel storied Mosque. Sorisherchar,Ujanchar union, Bancharam pur,Brahmanbaria..</span></h5>
+                        <h5>Sorishrar char Jam-A-Mosque. </h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal3"><img src="images/rsz_101.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Ujanchar launch ghat Jam-A-Mosque.<span class="decription">Single  Storied Mosque. Ujanchar,ujanchar union, Bancharampur, Brahmanbaria.</span></h5>
+                        <h5>Ujanchar launch ghat Jam-A-Mosque.</h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal4"><img src="images/rsz_5.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>One storied residential building.   <span class="decription">Bahar char,Manik pur union, Bancharamspur, Brahmanbaria.</span></h5>
+                        <h5>One storied residential building. </h5>
                     </div>
                 </div>
 
                 <div class="col-md-4 gal-img">
                     <a href="#gal5"><img src="images/rsz_fb_img_1563459268545.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Ujanchar launch ghat Jam-A-Mosque.<span class="decription">Single  Storied Mosque. Ujanchar,ujanchar union, Bancharampur, Brahmanbaria.</span></h5>
+                        <h5>Ujanchar launch ghat Jam-A-Mosque.</h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal6"><img src="images/rsz_20190729_195703.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>two storied residential building.   <span class="decription">Ayubpur, Ayubpur union, Bancharamspur, Brahmanbaria.</span></h5>
+                        <h5>Two Storied Residential Building.</h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal7"><img src="images/rsz_banner.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Ujanchar K.M school and  collage.<span class="decription">ujanchar school and collage  , bancharampur, Brahmanbaria.</span></h5>
+                        <h5>Ujanchar K.M school and  collage.<span class="decription"></span></h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal8"><img src="images/rsz_111.jpg" alt="w3pvt" class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Ujanchar K.M school and  collage.<span class="decription">ujanchar school and collage  , bancharampur, Brahmanbaria.</span></h5>
+                        <h5>Ujanchar K.M school and  collage.</h5>
                     </div>
                 </div>
                 <div class="col-md-4 gal-img">
                     <a href="#gal9"><img src="images/rsz_t_2_.jpg" alt="image of mosque"  class="img-fluid"></a>
                     <div class="gal-info">
-                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.<span class="decription"> 4 storied Mosque. Upazila Parished Mowla Ali Kendrio Jam-e-Mosque. Banchamarpur, brahmanbaria.</span></h5>
+                        <h5>Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.</h5>
                     </div>
                 </div>
 
@@ -268,6 +268,7 @@
             <div id="gal1" class="pop-overlay">
                 <div class="popup">
                     <img src="images/g10.jpg" alt="Popup Image"  class="img-fluid" />
+                    <h5> Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.</h5>
                     <p class="mt-4">Location: Bancharampur.<br>Consider floor live load: Four storied mosque</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
@@ -277,7 +278,8 @@
             <div id="gal2" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_mosque_3.jpg" alt="Popup Image" class="img-fluid" />
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5>Sorishrar char Jam-A-Mosque.</h5>
+                    <p class="mt-4">Location: Sorisherchar,Ujanchar Union, Bancharampur, Brahmanbaria.<br>Consider floor live load: Singel storied Mosque.   </p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -286,7 +288,8 @@
             <div id="gal3" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_101.jpg" alt="Popup Image" class="img-fluid" />
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5>Ujanchar launch ghat Jam-A-Mosque.</h5>
+                    <p class="mt-4"> Location: Ujanchar, Ujanchar Union, Bancharampur, Brahmanbaria.<br>Consider floor live load: Single  Storied Mosque.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -295,8 +298,8 @@
             <div id="gal4" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_5.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5>View Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5 class="mt-3">One storied residential building.</h5>
+                    <p class="mt-4">Location: Bahar char,Manikpur Union, Bancharampur, Brahmanbaria.<br>Client Name: Foisal Ahmed Tapos.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -305,8 +308,8 @@
             <div id="gal5" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_fb_img_1563459268545.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5 class="mt-3">View Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5>Ujanchar launch ghat Jam-A-Mosque.</h5>
+                    <p class="mt-4"> Location: Ujanchar, Ujanchar Union, Bancharampur, Brahmanbaria.<br>Consider floor live load: Single  Storied Mosque.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -315,8 +318,8 @@
             <div id="gal6" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_20190729_195703.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5 class="mt-3">View Project</h5>
-                    <p>Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5 class="mt-3">Two Storied Residential Building.</h5>
+                    <p>Location: Ayubpur, Ayubpur Union, Bancharampur, Brahmanbaria.<br>Client Name: Rayhanul Islam(Itlay expatriate).</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -325,8 +328,8 @@
             <div id="gal7" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_banner.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5 class="mt-3">Mosque Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5 class="mt-3">Ujanchar K.M school and  collage.</h5>
+                    <p class="mt-4">Location: Ujanchar School and Collage, Bancharampur, Brahmanbaria.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -335,8 +338,8 @@
             <div id="gal8" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_111.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5 class="mt-3">View Project</h5>
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5 class="mt-3">Ujanchar K.M school and  collage.</h5>
+                    <p class="mt-4">Location: Ujanchar School and Collage, Bancharampur, Brahmanbaria.</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
@@ -345,8 +348,8 @@
             <div id="gal9" class="pop-overlay">
                 <div class="popup">
                     <img src="images/rsz_t_2_.jpg" alt="Popup Image" class="img-fluid" />
-                    <h5 class="mt-3">View Project</h5>s
-                    <p class="mt-4">Nulla viverra pharetra se, eget pulvinar neque pharetra ac int. placerat placerat dolor.</p>
+                    <h5> Upazila Parished Mowla Ali Kendrio Jam-A-Mosque.</h5>
+                    <p class="mt-4">Location: Bancharampur.<br>Consider floor live load: Four storied mosque</p>
                     <a class="close" href="#gallery">&times;</a>
                 </div>
             </div>
