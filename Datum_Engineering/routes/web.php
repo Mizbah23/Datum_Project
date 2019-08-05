@@ -19,7 +19,7 @@ Route::get('/design', 'serviceController@index')->name('services');
 Route::get('/single', 'singleController@index')->name('single');
 Route::get('/contact', 'contactController@index')->name('contact');
 Route::get('/developing', 'developingController@index')->name('developing');
-Route::get('/surey|gis', 'surveyController@index')->name('survey');
+Route::get('/surey', 'surveyController@index')->name('survey');
 Route::get('/soiltest', 'soiltestController@index')->name('soiltest');
 Route::get('/mep', 'mepController@index')->name('mep');
 Route::get('/team', 'teamController@index')->name('team');

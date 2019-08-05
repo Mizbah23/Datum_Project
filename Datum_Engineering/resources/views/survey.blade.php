@@ -115,7 +115,7 @@
                     <p>The technique and science of determining the terrestrial, i.e. the three-dimensional position of points and the distances and angles between them, using digital/electronic means. Learn more in: Digital Surveying in Cultural Heritage: The Image-Based Recording and Documentation Approaches.
                         </p>
                     
-                    <a class="btn more black mt-3" href="services.html" role="button">Services Info</a>
+                    <a class="btn more black mt-3" href="{{route('single')}}" role="button">Services Info</a>
 
                 </div>
             </div>

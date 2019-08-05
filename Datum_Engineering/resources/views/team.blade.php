@@ -391,7 +391,7 @@
                         <p>BSc in CSE(AIUB)</p>
                         <div class="icon-social team mt-4">
                             
-                            <a href="#" class="button-footr">
+                            <a href="mailto:mizbahmed161@gamil.com" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
@@ -409,7 +409,7 @@
                         <p>BSc in CSE(BIST)</p>
                         <div class="icon-social team mt-4">
                             
-                            <a href="#" class="button-footr">
+                            <a href="mailto:mdrahmanshiqur3@gmail.com" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
@@ -426,7 +426,7 @@
                         <p>BSc in CSE(BIST)</p>
                         <div class="icon-social team mt-4">
                             
-                            <a href="#" class="button-footr">
+                            <a href="mailto:jotonsutradharjoy@gmail.com" class="button-footr">
                                 <span class="fa fa-google-plus"></span>
                             </a>
 
