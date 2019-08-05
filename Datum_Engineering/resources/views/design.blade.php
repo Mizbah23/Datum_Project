@@ -150,10 +150,10 @@
                         
                         <div class="col-lg-8 about-img mt-md-4">
                             <div class="row">
-                                <div class="col">
+                                <div class="col-lg-5">
                                     <img src="images/6copy.jpg" class="img-fluid responsive" alt="user-image">
                                 </div>
-                                <div class="col">
+                                <div class="col-lg-7">
                                     <img src="images/9copy.jpg" class="img-fluid responsive" alt="user-image">
                                 </div>
                             </div>
